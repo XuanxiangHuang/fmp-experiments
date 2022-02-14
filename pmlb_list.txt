@@ -1,0 +1,8 @@
+adult
+letter
+mfeat_fourier
+mfeat_karhunen
+mfeat_zernike
+satimage
+twonorm
+waveform_40
