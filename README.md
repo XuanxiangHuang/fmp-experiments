@@ -27,7 +27,7 @@ Generating tested instances/features:
 python3 gen_samples.py -bench iscas89 -inst 100 -sdd
 python3 gen_samples.py -bench iscas89 -feat 100 -sdd
 ```
-Experiment of answering FM queries:
+Experiment of answering FM queries and return an weak AXp:
 ```
 python3 exp-answer.py -bench pmlb -dt
 python3 exp-answer.py -bench flat30-60 -obdd
@@ -35,11 +35,19 @@ python3 exp-answer.py -bench iscas93 -sdd
 python3 exp-answer.py -bench iscas89 -sdd
 python3 exp-answer.py -bench density-estimation -sdd
 ```
-Experiment of answering FM queries and return on AXp (two-step method):
+Experiment of answering FM queries and return an AXp (two-step method):
 ```
 python3 exp-find-one.py -bench pmlb -dt
 python3 exp-find-one.py -bench flat30-60 -obdd
 python3 exp-find-one.py -bench iscas93 -sdd
 python3 exp-find-one.py -bench iscas89 -sdd
 python3 exp-find-one.py -bench density-estimation -sdd
+```
+Experiment of answering FM queries and return an AXp (one-step method):
+```
+python3 exp-gnc.py -bench pmlb -dt
+python3 exp-gnc.py -bench flat30-60 -obdd
+python3 exp-gnc.py -bench iscas93 -sdd
+python3 exp-gnc.py -bench iscas89 -sdd
+python3 exp-gnc.py -bench density-estimation -sdd
 ```
