@@ -51,3 +51,14 @@ python3 exp-gnc.py -bench iscas93 -sdd
 python3 exp-gnc.py -bench iscas89 -sdd
 python3 exp-gnc.py -bench density-estimation -sdd
 ```
+
+## Citation
+Please cite the following paper when you use this work:
+```
+@article{huang2022deciding,
+  title={On Deciding Feature Membership in Explanations of SDD \& Related Classifiers},
+  author={Huang, Xuanxiang and Marques-Silva, Joao},
+  journal={arXiv preprint arXiv:2202.07553},
+  year={2022}
+}
+```
