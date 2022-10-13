@@ -1,0 +1,1256 @@
+############ mushrooms ############
+mushrooms, 0-th inst file out of 100
+SAT encoding: query on feature 180 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [48, 117, 146, 180]
+Extracting time: 1.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 1-th inst file out of 100
+SAT encoding: query on feature 220 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [145, 151, 220]
+Extracting time: 1.2 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 2-th inst file out of 100
+SAT encoding: query on feature 98 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [68, 98, 205, 216]
+Extracting time: 1.2 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 3-th inst file out of 100
+SAT encoding: query on feature 8 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [8, 92, 106, 161, 189, 198, 215]
+Extracting time: 2.3 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 4-th inst file out of 100
+SAT encoding: query on feature 190 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.5 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [18, 190, 193]
+Extracting time: 0.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 5-th inst file out of 100
+SAT encoding: query on feature 100 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [63, 100, 168]
+Extracting time: 2.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 6-th inst file out of 100
+SAT encoding: query on feature 246 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [108, 246]
+Extracting time: 2.2 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 7-th inst file out of 100
+SAT encoding: query on feature 11 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [11, 188]
+Extracting time: 2.0 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 8-th inst file out of 100
+SAT encoding: query on feature 48 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [48, 227]
+Extracting time: 1.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 9-th inst file out of 100
+SAT encoding: query on feature 114 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [114, 190]
+Extracting time: 1.2 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 10-th inst file out of 100
+SAT encoding: query on feature 34 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [34, 216]
+Extracting time: 2.3 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 11-th inst file out of 100
+SAT encoding: query on feature 200 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [190, 199, 200, 237]
+Extracting time: 1.7 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 12-th inst file out of 100
+SAT encoding: query on feature 169 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [18, 63, 169]
+Extracting time: 1.3 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 13-th inst file out of 100
+SAT encoding: query on feature 23 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [23, 128, 209, 221]
+Extracting time: 3.3 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 14-th inst file out of 100
+SAT encoding: query on feature 60 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 122.6 secs
+=============== no AXp exists ===============
+=== SDD garbage collection ===
+mushrooms, 15-th inst file out of 100
+SAT encoding: query on feature 35 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [35, 247]
+Extracting time: 3.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 16-th inst file out of 100
+SAT encoding: query on feature 118 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [118, 144]
+Extracting time: 2.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 17-th inst file out of 100
+SAT encoding: query on feature 45 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [45, 224, 229, 246]
+Extracting time: 1.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 18-th inst file out of 100
+SAT encoding: query on feature 206 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [75, 152, 206, 219]
+Extracting time: 3.1 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 19-th inst file out of 100
+SAT encoding: query on feature 78 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [78, 135]
+Extracting time: 1.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 20-th inst file out of 100
+SAT encoding: query on feature 97 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [84, 97, 230]
+Extracting time: 1.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 21-th inst file out of 100
+SAT encoding: query on feature 59 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [59, 193]
+Extracting time: 2.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 22-th inst file out of 100
+SAT encoding: query on feature 142 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 107.0 secs
+=============== no AXp exists ===============
+=== SDD garbage collection ===
+mushrooms, 23-th inst file out of 100
+SAT encoding: query on feature 86 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [86, 172, 219, 247]
+Extracting time: 2.3 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 24-th inst file out of 100
+SAT encoding: query on feature 16 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [16, 245]
+Extracting time: 2.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 25-th inst file out of 100
+SAT encoding: query on feature 79 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [79, 172]
+Extracting time: 1.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 26-th inst file out of 100
+SAT encoding: query on feature 224 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [106, 189, 224]
+Extracting time: 2.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 27-th inst file out of 100
+SAT encoding: query on feature 241 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [82, 241, 244]
+Extracting time: 2.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 28-th inst file out of 100
+SAT encoding: query on feature 191 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [111, 175, 191]
+Extracting time: 2.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 29-th inst file out of 100
+SAT encoding: query on feature 137 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [137, 139, 143]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 30-th inst file out of 100
+SAT encoding: query on feature 234 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [88, 114, 234, 240]
+Extracting time: 1.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 31-th inst file out of 100
+SAT encoding: query on feature 149 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [91, 149]
+Extracting time: 2.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 32-th inst file out of 100
+SAT encoding: query on feature 4 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [4, 184]
+Extracting time: 1.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 33-th inst file out of 100
+SAT encoding: query on feature 138 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [69, 138]
+Extracting time: 1.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 34-th inst file out of 100
+SAT encoding: query on feature 38 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [38, 213]
+Extracting time: 3.0 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 35-th inst file out of 100
+SAT encoding: query on feature 136 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [101, 112, 136]
+Extracting time: 1.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 36-th inst file out of 100
+SAT encoding: query on feature 211 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [156, 170, 211]
+Extracting time: 2.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 37-th inst file out of 100
+SAT encoding: query on feature 184 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [25, 107, 184]
+Extracting time: 2.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 38-th inst file out of 100
+SAT encoding: query on feature 146 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [146, 193]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 39-th inst file out of 100
+SAT encoding: query on feature 151 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.4 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [81, 151, 186, 243]
+Extracting time: 2.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 40-th inst file out of 100
+SAT encoding: query on feature 155 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [38, 155]
+Extracting time: 2.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 41-th inst file out of 100
+SAT encoding: query on feature 22 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [22, 128]
+Extracting time: 1.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 42-th inst file out of 100
+SAT encoding: query on feature 204 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.6 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [88, 146, 181, 204]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 43-th inst file out of 100
+SAT encoding: query on feature 209 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [49, 209]
+Extracting time: 1.7 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 44-th inst file out of 100
+SAT encoding: query on feature 131 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [59, 125, 131]
+Extracting time: 1.3 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 45-th inst file out of 100
+SAT encoding: query on feature 171 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.4 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [171, 172, 190]
+Extracting time: 2.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 46-th inst file out of 100
+SAT encoding: query on feature 26 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [26, 223]
+Extracting time: 1.7 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 47-th inst file out of 100
+SAT encoding: query on feature 156 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [140, 156, 198]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 48-th inst file out of 100
+SAT encoding: query on feature 179 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [179, 243]
+Extracting time: 2.2 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 49-th inst file out of 100
+SAT encoding: query on feature 94 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [3, 94]
+Extracting time: 2.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 50-th inst file out of 100
+SAT encoding: query on feature 30 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 266.7 secs
+=============== no AXp exists ===============
+=== SDD garbage collection ===
+mushrooms, 51-th inst file out of 100
+SAT encoding: query on feature 75 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [75, 206, 232]
+Extracting time: 2.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 52-th inst file out of 100
+SAT encoding: query on feature 226 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [13, 83, 226]
+Extracting time: 2.1 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 53-th inst file out of 100
+SAT encoding: query on feature 105 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [42, 105, 150, 166]
+Extracting time: 2.2 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 54-th inst file out of 100
+SAT encoding: query on feature 202 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [62, 129, 202]
+Extracting time: 4.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 55-th inst file out of 100
+SAT encoding: query on feature 125 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 149.1 secs
+=============== no AXp exists ===============
+=== SDD garbage collection ===
+mushrooms, 56-th inst file out of 100
+SAT encoding: query on feature 65 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [44, 65, 112]
+Extracting time: 1.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 57-th inst file out of 100
+SAT encoding: query on feature 117 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [67, 117]
+Extracting time: 1.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 58-th inst file out of 100
+SAT encoding: query on feature 46 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [46, 96, 136]
+Extracting time: 2.0 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 59-th inst file out of 100
+SAT encoding: query on feature 112 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.4 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [43, 84, 105, 112, 230]
+Extracting time: 2.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 60-th inst file out of 100
+SAT encoding: query on feature 185 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [145, 185]
+Extracting time: 1.7 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 61-th inst file out of 100
+SAT encoding: query on feature 47 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 131.1 secs
+=============== no AXp exists ===============
+=== SDD garbage collection ===
+mushrooms, 62-th inst file out of 100
+SAT encoding: query on feature 54 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [54, 85, 208]
+Extracting time: 1.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 63-th inst file out of 100
+SAT encoding: query on feature 87 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [12, 87]
+Extracting time: 1.1 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 64-th inst file out of 100
+SAT encoding: query on feature 31 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 167.5 secs
+=============== no AXp exists ===============
+=== SDD garbage collection ===
+mushrooms, 65-th inst file out of 100
+SAT encoding: query on feature 43 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [43, 45, 105]
+Extracting time: 1.1 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 66-th inst file out of 100
+SAT encoding: query on feature 19 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [19, 244]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 67-th inst file out of 100
+SAT encoding: query on feature 41 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [41, 90, 189]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 68-th inst file out of 100
+SAT encoding: query on feature 37 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [37, 206]
+Extracting time: 1.7 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 69-th inst file out of 100
+SAT encoding: query on feature 198 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [166, 198]
+Extracting time: 2.0 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 70-th inst file out of 100
+SAT encoding: query on feature 84 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [84, 230]
+Extracting time: 1.7 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 71-th inst file out of 100
+SAT encoding: query on feature 119 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [119, 213]
+Extracting time: 3.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 72-th inst file out of 100
+SAT encoding: query on feature 212 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [91, 212]
+Extracting time: 3.7 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 73-th inst file out of 100
+SAT encoding: query on feature 29 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 161.5 secs
+=============== no AXp exists ===============
+=== SDD garbage collection ===
+mushrooms, 74-th inst file out of 100
+SAT encoding: query on feature 247 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [172, 190, 247]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 75-th inst file out of 100
+SAT encoding: query on feature 20 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [20, 26, 123, 158, 225]
+Extracting time: 1.7 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 76-th inst file out of 100
+SAT encoding: query on feature 56 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 124.4 secs
+=============== no AXp exists ===============
+=== SDD garbage collection ===
+mushrooms, 77-th inst file out of 100
+SAT encoding: query on feature 44 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [43, 44, 105]
+Extracting time: 1.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 78-th inst file out of 100
+SAT encoding: query on feature 173 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 114.3 secs
+=============== no AXp exists ===============
+=== SDD garbage collection ===
+mushrooms, 79-th inst file out of 100
+SAT encoding: query on feature 13 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [13, 226]
+Extracting time: 2.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 80-th inst file out of 100
+SAT encoding: query on feature 163 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [48, 163]
+Extracting time: 2.2 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 81-th inst file out of 100
+SAT encoding: query on feature 101 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [52, 101, 117]
+Extracting time: 2.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 82-th inst file out of 100
+SAT encoding: query on feature 172 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [79, 172]
+Extracting time: 1.7 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 83-th inst file out of 100
+SAT encoding: query on feature 83 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [83, 226]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 84-th inst file out of 100
+SAT encoding: query on feature 39 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [39, 189]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 85-th inst file out of 100
+SAT encoding: query on feature 245 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [91, 123, 245]
+Extracting time: 1.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 86-th inst file out of 100
+SAT encoding: query on feature 158 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [10, 158, 240]
+Extracting time: 2.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 87-th inst file out of 100
+SAT encoding: query on feature 188 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [8, 188, 211]
+Extracting time: 2.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 88-th inst file out of 100
+SAT encoding: query on feature 243 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [81, 243]
+Extracting time: 3.0 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 89-th inst file out of 100
+SAT encoding: query on feature 102 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [40, 43, 93, 96, 102]
+Extracting time: 1.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 90-th inst file out of 100
+SAT encoding: query on feature 96 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [67, 96, 98, 123, 245]
+Extracting time: 1.9 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 91-th inst file out of 100
+SAT encoding: query on feature 27 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [27, 204]
+Extracting time: 3.0 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 92-th inst file out of 100
+SAT encoding: query on feature 192 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [0, 133, 192]
+Extracting time: 2.5 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 93-th inst file out of 100
+SAT encoding: query on feature 214 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [19, 214]
+Extracting time: 2.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 94-th inst file out of 100
+SAT encoding: query on feature 92 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [92, 179]
+Extracting time: 2.8 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 95-th inst file out of 100
+SAT encoding: query on feature 99 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.4 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [99, 161, 189]
+Extracting time: 1.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 96-th inst file out of 100
+SAT encoding: query on feature 221 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [22, 221]
+Extracting time: 2.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 97-th inst file out of 100
+SAT encoding: query on feature 69 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [69, 139]
+Extracting time: 1.4 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 98-th inst file out of 100
+SAT encoding: query on feature 49 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [49, 127]
+Extracting time: 1.6 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===
+mushrooms, 99-th inst file out of 100
+SAT encoding: query on feature 90 out of 248 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+(kc) Start extracting...
+AXp: [90, 160]
+Extracting time: 2.0 secs
+=== check AXp ===
+=== check succeed ===
+=== SDD garbage collection ===

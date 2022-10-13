@@ -1,0 +1,4268 @@
+############ s344 ############
+s344, 0-th inst file out of 100
+SAT encoding: query on feature 149 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 1-th inst file out of 100
+SAT encoding: query on feature 139 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 2-th inst file out of 100
+SAT encoding: query on feature 0 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 3-th inst file out of 100
+SAT encoding: query on feature 150 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 4-th inst file out of 100
+SAT encoding: query on feature 69 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 5-th inst file out of 100
+SAT encoding: query on feature 96 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 6-th inst file out of 100
+SAT encoding: query on feature 170 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 7-th inst file out of 100
+SAT encoding: query on feature 141 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 8-th inst file out of 100
+SAT encoding: query on feature 20 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 9-th inst file out of 100
+SAT encoding: query on feature 31 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 10-th inst file out of 100
+SAT encoding: query on feature 81 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 11-th inst file out of 100
+SAT encoding: query on feature 84 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 12-th inst file out of 100
+SAT encoding: query on feature 43 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 13-th inst file out of 100
+SAT encoding: query on feature 65 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s344, 14-th inst file out of 100
+SAT encoding: query on feature 34 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 15-th inst file out of 100
+SAT encoding: query on feature 113 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 16-th inst file out of 100
+SAT encoding: query on feature 54 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 17-th inst file out of 100
+SAT encoding: query on feature 41 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 18-th inst file out of 100
+SAT encoding: query on feature 131 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 19-th inst file out of 100
+SAT encoding: query on feature 5 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 20-th inst file out of 100
+SAT encoding: query on feature 30 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 21-th inst file out of 100
+SAT encoding: query on feature 123 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 22-th inst file out of 100
+SAT encoding: query on feature 42 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 23-th inst file out of 100
+SAT encoding: query on feature 25 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 24-th inst file out of 100
+SAT encoding: query on feature 8 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 25-th inst file out of 100
+SAT encoding: query on feature 163 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 26-th inst file out of 100
+SAT encoding: query on feature 73 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 27-th inst file out of 100
+SAT encoding: query on feature 51 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 28-th inst file out of 100
+SAT encoding: query on feature 23 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 29-th inst file out of 100
+SAT encoding: query on feature 4 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 30-th inst file out of 100
+SAT encoding: query on feature 104 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 31-th inst file out of 100
+SAT encoding: query on feature 154 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 32-th inst file out of 100
+SAT encoding: query on feature 13 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 33-th inst file out of 100
+SAT encoding: query on feature 26 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 34-th inst file out of 100
+SAT encoding: query on feature 99 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 35-th inst file out of 100
+SAT encoding: query on feature 133 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 36-th inst file out of 100
+SAT encoding: query on feature 70 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 37-th inst file out of 100
+SAT encoding: query on feature 56 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 38-th inst file out of 100
+SAT encoding: query on feature 175 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 39-th inst file out of 100
+SAT encoding: query on feature 180 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 40-th inst file out of 100
+SAT encoding: query on feature 119 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 41-th inst file out of 100
+SAT encoding: query on feature 101 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 42-th inst file out of 100
+SAT encoding: query on feature 76 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 43-th inst file out of 100
+SAT encoding: query on feature 130 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 44-th inst file out of 100
+SAT encoding: query on feature 89 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 45-th inst file out of 100
+SAT encoding: query on feature 7 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 46-th inst file out of 100
+SAT encoding: query on feature 161 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 47-th inst file out of 100
+SAT encoding: query on feature 179 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 48-th inst file out of 100
+SAT encoding: query on feature 153 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 49-th inst file out of 100
+SAT encoding: query on feature 168 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 50-th inst file out of 100
+SAT encoding: query on feature 134 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 51-th inst file out of 100
+SAT encoding: query on feature 59 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 52-th inst file out of 100
+SAT encoding: query on feature 157 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 53-th inst file out of 100
+SAT encoding: query on feature 152 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 54-th inst file out of 100
+SAT encoding: query on feature 159 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 55-th inst file out of 100
+SAT encoding: query on feature 29 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 56-th inst file out of 100
+SAT encoding: query on feature 67 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 57-th inst file out of 100
+SAT encoding: query on feature 172 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 58-th inst file out of 100
+SAT encoding: query on feature 124 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 59-th inst file out of 100
+SAT encoding: query on feature 166 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 60-th inst file out of 100
+SAT encoding: query on feature 14 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 61-th inst file out of 100
+SAT encoding: query on feature 108 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 62-th inst file out of 100
+SAT encoding: query on feature 144 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 63-th inst file out of 100
+SAT encoding: query on feature 181 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 64-th inst file out of 100
+SAT encoding: query on feature 75 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 65-th inst file out of 100
+SAT encoding: query on feature 135 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 66-th inst file out of 100
+SAT encoding: query on feature 86 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 67-th inst file out of 100
+SAT encoding: query on feature 137 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 68-th inst file out of 100
+SAT encoding: query on feature 24 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 69-th inst file out of 100
+SAT encoding: query on feature 132 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 70-th inst file out of 100
+SAT encoding: query on feature 173 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 71-th inst file out of 100
+SAT encoding: query on feature 3 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 72-th inst file out of 100
+SAT encoding: query on feature 79 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 73-th inst file out of 100
+SAT encoding: query on feature 111 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 74-th inst file out of 100
+SAT encoding: query on feature 37 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 75-th inst file out of 100
+SAT encoding: query on feature 58 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 76-th inst file out of 100
+SAT encoding: query on feature 114 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 77-th inst file out of 100
+SAT encoding: query on feature 147 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 78-th inst file out of 100
+SAT encoding: query on feature 47 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 79-th inst file out of 100
+SAT encoding: query on feature 36 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 80-th inst file out of 100
+SAT encoding: query on feature 120 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 81-th inst file out of 100
+SAT encoding: query on feature 62 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 82-th inst file out of 100
+SAT encoding: query on feature 112 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 83-th inst file out of 100
+SAT encoding: query on feature 27 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 84-th inst file out of 100
+SAT encoding: query on feature 22 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 85-th inst file out of 100
+SAT encoding: query on feature 182 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 86-th inst file out of 100
+SAT encoding: query on feature 177 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 87-th inst file out of 100
+SAT encoding: query on feature 90 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 88-th inst file out of 100
+SAT encoding: query on feature 48 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 89-th inst file out of 100
+SAT encoding: query on feature 92 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 90-th inst file out of 100
+SAT encoding: query on feature 109 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 91-th inst file out of 100
+SAT encoding: query on feature 171 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 92-th inst file out of 100
+SAT encoding: query on feature 35 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 93-th inst file out of 100
+SAT encoding: query on feature 44 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 94-th inst file out of 100
+SAT encoding: query on feature 142 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 95-th inst file out of 100
+SAT encoding: query on feature 100 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 96-th inst file out of 100
+SAT encoding: query on feature 167 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 97-th inst file out of 100
+SAT encoding: query on feature 57 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 98-th inst file out of 100
+SAT encoding: query on feature 110 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344, 99-th inst file out of 100
+SAT encoding: query on feature 2 out of 184 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 184.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s344 & 100 & 184 & nn & 100 (0) & 8868 & 24100 & 15.0 & 0.2 & 0.1 & 0.2
+
+############ s499 ############
+s499, 0-th inst file out of 100
+SAT encoding: query on feature 11 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 1-th inst file out of 100
+SAT encoding: query on feature 41 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 2-th inst file out of 100
+SAT encoding: query on feature 81 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 3-th inst file out of 100
+SAT encoding: query on feature 20 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 4-th inst file out of 100
+SAT encoding: query on feature 96 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 5-th inst file out of 100
+SAT encoding: query on feature 55 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 6-th inst file out of 100
+SAT encoding: query on feature 166 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 7-th inst file out of 100
+SAT encoding: query on feature 109 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 8-th inst file out of 100
+SAT encoding: query on feature 155 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 9-th inst file out of 100
+SAT encoding: query on feature 2 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 10-th inst file out of 100
+SAT encoding: query on feature 120 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 11-th inst file out of 100
+SAT encoding: query on feature 98 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 12-th inst file out of 100
+SAT encoding: query on feature 0 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 13-th inst file out of 100
+SAT encoding: query on feature 30 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 14-th inst file out of 100
+SAT encoding: query on feature 103 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 15-th inst file out of 100
+SAT encoding: query on feature 65 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 16-th inst file out of 100
+SAT encoding: query on feature 164 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 17-th inst file out of 100
+SAT encoding: query on feature 140 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 18-th inst file out of 100
+SAT encoding: query on feature 93 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 19-th inst file out of 100
+SAT encoding: query on feature 134 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 20-th inst file out of 100
+SAT encoding: query on feature 149 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 21-th inst file out of 100
+SAT encoding: query on feature 27 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 22-th inst file out of 100
+SAT encoding: query on feature 75 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 23-th inst file out of 100
+SAT encoding: query on feature 22 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 24-th inst file out of 100
+SAT encoding: query on feature 8 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 25-th inst file out of 100
+SAT encoding: query on feature 171 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 26-th inst file out of 100
+SAT encoding: query on feature 85 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 27-th inst file out of 100
+SAT encoding: query on feature 40 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 28-th inst file out of 100
+SAT encoding: query on feature 118 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 29-th inst file out of 100
+SAT encoding: query on feature 19 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 30-th inst file out of 100
+SAT encoding: query on feature 33 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 31-th inst file out of 100
+SAT encoding: query on feature 165 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 32-th inst file out of 100
+SAT encoding: query on feature 114 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 33-th inst file out of 100
+SAT encoding: query on feature 50 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 34-th inst file out of 100
+SAT encoding: query on feature 57 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 35-th inst file out of 100
+SAT encoding: query on feature 142 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 36-th inst file out of 100
+SAT encoding: query on feature 128 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 37-th inst file out of 100
+SAT encoding: query on feature 150 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 38-th inst file out of 100
+SAT encoding: query on feature 132 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 39-th inst file out of 100
+SAT encoding: query on feature 51 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 40-th inst file out of 100
+SAT encoding: query on feature 137 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 41-th inst file out of 100
+SAT encoding: query on feature 172 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 42-th inst file out of 100
+SAT encoding: query on feature 15 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 43-th inst file out of 100
+SAT encoding: query on feature 18 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 44-th inst file out of 100
+SAT encoding: query on feature 130 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 45-th inst file out of 100
+SAT encoding: query on feature 84 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 46-th inst file out of 100
+SAT encoding: query on feature 69 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 47-th inst file out of 100
+SAT encoding: query on feature 80 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 48-th inst file out of 100
+SAT encoding: query on feature 43 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 49-th inst file out of 100
+SAT encoding: query on feature 91 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 50-th inst file out of 100
+SAT encoding: query on feature 151 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 51-th inst file out of 100
+SAT encoding: query on feature 159 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s499, 52-th inst file out of 100
+SAT encoding: query on feature 59 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 53-th inst file out of 100
+SAT encoding: query on feature 139 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 54-th inst file out of 100
+SAT encoding: query on feature 9 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 55-th inst file out of 100
+SAT encoding: query on feature 36 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 56-th inst file out of 100
+SAT encoding: query on feature 32 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 57-th inst file out of 100
+SAT encoding: query on feature 46 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 58-th inst file out of 100
+SAT encoding: query on feature 66 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 59-th inst file out of 100
+SAT encoding: query on feature 135 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 60-th inst file out of 100
+SAT encoding: query on feature 122 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 61-th inst file out of 100
+SAT encoding: query on feature 138 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 62-th inst file out of 100
+SAT encoding: query on feature 21 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 63-th inst file out of 100
+SAT encoding: query on feature 38 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 64-th inst file out of 100
+SAT encoding: query on feature 127 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 65-th inst file out of 100
+SAT encoding: query on feature 72 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 66-th inst file out of 100
+SAT encoding: query on feature 25 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 67-th inst file out of 100
+SAT encoding: query on feature 23 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 68-th inst file out of 100
+SAT encoding: query on feature 79 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 69-th inst file out of 100
+SAT encoding: query on feature 82 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 70-th inst file out of 100
+SAT encoding: query on feature 44 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 71-th inst file out of 100
+SAT encoding: query on feature 115 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 72-th inst file out of 100
+SAT encoding: query on feature 106 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 73-th inst file out of 100
+SAT encoding: query on feature 174 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 74-th inst file out of 100
+SAT encoding: query on feature 108 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 75-th inst file out of 100
+SAT encoding: query on feature 161 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 76-th inst file out of 100
+SAT encoding: query on feature 158 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 77-th inst file out of 100
+SAT encoding: query on feature 63 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 78-th inst file out of 100
+SAT encoding: query on feature 154 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 79-th inst file out of 100
+SAT encoding: query on feature 152 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 80-th inst file out of 100
+SAT encoding: query on feature 117 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 81-th inst file out of 100
+SAT encoding: query on feature 6 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 82-th inst file out of 100
+SAT encoding: query on feature 101 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 83-th inst file out of 100
+SAT encoding: query on feature 88 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 84-th inst file out of 100
+SAT encoding: query on feature 62 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 85-th inst file out of 100
+SAT encoding: query on feature 4 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 86-th inst file out of 100
+SAT encoding: query on feature 163 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 87-th inst file out of 100
+SAT encoding: query on feature 170 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 88-th inst file out of 100
+SAT encoding: query on feature 153 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 89-th inst file out of 100
+SAT encoding: query on feature 148 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 90-th inst file out of 100
+SAT encoding: query on feature 70 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 91-th inst file out of 100
+SAT encoding: query on feature 123 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 92-th inst file out of 100
+SAT encoding: query on feature 110 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 93-th inst file out of 100
+SAT encoding: query on feature 146 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 94-th inst file out of 100
+SAT encoding: query on feature 60 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 95-th inst file out of 100
+SAT encoding: query on feature 87 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 96-th inst file out of 100
+SAT encoding: query on feature 136 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 97-th inst file out of 100
+SAT encoding: query on feature 1 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s499, 98-th inst file out of 100
+SAT encoding: query on feature 104 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499, 99-th inst file out of 100
+SAT encoding: query on feature 133 out of 175 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 175.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s499 & 100 & 175 & nn & 100 (0) & 5939 & 15692 & 10.2 & 0.2 & 0.1 & 0.1
+
+############ s635 ############
+s635, 0-th inst file out of 100
+SAT encoding: query on feature 174 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 1-th inst file out of 100
+SAT encoding: query on feature 224 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 2-th inst file out of 100
+SAT encoding: query on feature 173 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 3-th inst file out of 100
+SAT encoding: query on feature 214 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 4-th inst file out of 100
+SAT encoding: query on feature 64 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 5-th inst file out of 100
+SAT encoding: query on feature 106 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 6-th inst file out of 100
+SAT encoding: query on feature 258 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 7-th inst file out of 100
+SAT encoding: query on feature 58 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 8-th inst file out of 100
+SAT encoding: query on feature 89 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 9-th inst file out of 100
+SAT encoding: query on feature 287 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 10-th inst file out of 100
+SAT encoding: query on feature 98 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 11-th inst file out of 100
+SAT encoding: query on feature 60 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 12-th inst file out of 100
+SAT encoding: query on feature 301 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 13-th inst file out of 100
+SAT encoding: query on feature 308 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 14-th inst file out of 100
+SAT encoding: query on feature 94 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 15-th inst file out of 100
+SAT encoding: query on feature 150 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 16-th inst file out of 100
+SAT encoding: query on feature 220 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 17-th inst file out of 100
+SAT encoding: query on feature 100 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 18-th inst file out of 100
+SAT encoding: query on feature 87 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 19-th inst file out of 100
+SAT encoding: query on feature 315 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 20-th inst file out of 100
+SAT encoding: query on feature 158 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 21-th inst file out of 100
+SAT encoding: query on feature 6 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 22-th inst file out of 100
+SAT encoding: query on feature 104 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 23-th inst file out of 100
+SAT encoding: query on feature 300 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 24-th inst file out of 100
+SAT encoding: query on feature 233 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 25-th inst file out of 100
+SAT encoding: query on feature 191 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 26-th inst file out of 100
+SAT encoding: query on feature 27 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 27-th inst file out of 100
+SAT encoding: query on feature 294 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 28-th inst file out of 100
+SAT encoding: query on feature 166 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 29-th inst file out of 100
+SAT encoding: query on feature 222 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 30-th inst file out of 100
+SAT encoding: query on feature 57 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 31-th inst file out of 100
+SAT encoding: query on feature 81 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 32-th inst file out of 100
+SAT encoding: query on feature 205 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 33-th inst file out of 100
+SAT encoding: query on feature 96 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 34-th inst file out of 100
+SAT encoding: query on feature 314 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 35-th inst file out of 100
+SAT encoding: query on feature 45 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 36-th inst file out of 100
+SAT encoding: query on feature 228 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 37-th inst file out of 100
+SAT encoding: query on feature 121 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 38-th inst file out of 100
+SAT encoding: query on feature 102 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 39-th inst file out of 100
+SAT encoding: query on feature 80 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 40-th inst file out of 100
+SAT encoding: query on feature 207 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 41-th inst file out of 100
+SAT encoding: query on feature 67 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 42-th inst file out of 100
+SAT encoding: query on feature 208 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 43-th inst file out of 100
+SAT encoding: query on feature 14 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 44-th inst file out of 100
+SAT encoding: query on feature 160 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 45-th inst file out of 100
+SAT encoding: query on feature 240 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 46-th inst file out of 100
+SAT encoding: query on feature 141 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 47-th inst file out of 100
+SAT encoding: query on feature 123 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 48-th inst file out of 100
+SAT encoding: query on feature 277 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 49-th inst file out of 100
+SAT encoding: query on feature 229 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 50-th inst file out of 100
+SAT encoding: query on feature 46 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 51-th inst file out of 100
+SAT encoding: query on feature 75 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 52-th inst file out of 100
+SAT encoding: query on feature 183 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 53-th inst file out of 100
+SAT encoding: query on feature 38 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 54-th inst file out of 100
+SAT encoding: query on feature 17 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 55-th inst file out of 100
+SAT encoding: query on feature 51 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 56-th inst file out of 100
+SAT encoding: query on feature 194 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 57-th inst file out of 100
+SAT encoding: query on feature 20 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 58-th inst file out of 100
+SAT encoding: query on feature 79 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 59-th inst file out of 100
+SAT encoding: query on feature 264 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 60-th inst file out of 100
+SAT encoding: query on feature 252 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 61-th inst file out of 100
+SAT encoding: query on feature 2 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 62-th inst file out of 100
+SAT encoding: query on feature 282 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 63-th inst file out of 100
+SAT encoding: query on feature 0 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 64-th inst file out of 100
+SAT encoding: query on feature 235 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 65-th inst file out of 100
+SAT encoding: query on feature 204 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 66-th inst file out of 100
+SAT encoding: query on feature 237 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 67-th inst file out of 100
+SAT encoding: query on feature 170 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 68-th inst file out of 100
+SAT encoding: query on feature 55 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 69-th inst file out of 100
+SAT encoding: query on feature 313 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 70-th inst file out of 100
+SAT encoding: query on feature 265 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 71-th inst file out of 100
+SAT encoding: query on feature 107 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 72-th inst file out of 100
+SAT encoding: query on feature 103 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 73-th inst file out of 100
+SAT encoding: query on feature 177 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 74-th inst file out of 100
+SAT encoding: query on feature 62 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 75-th inst file out of 100
+SAT encoding: query on feature 143 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 76-th inst file out of 100
+SAT encoding: query on feature 61 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 77-th inst file out of 100
+SAT encoding: query on feature 306 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 78-th inst file out of 100
+SAT encoding: query on feature 238 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 79-th inst file out of 100
+SAT encoding: query on feature 78 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 80-th inst file out of 100
+SAT encoding: query on feature 117 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 81-th inst file out of 100
+SAT encoding: query on feature 280 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 82-th inst file out of 100
+SAT encoding: query on feature 270 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 83-th inst file out of 100
+SAT encoding: query on feature 32 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 84-th inst file out of 100
+SAT encoding: query on feature 225 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 85-th inst file out of 100
+SAT encoding: query on feature 274 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 86-th inst file out of 100
+SAT encoding: query on feature 175 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 87-th inst file out of 100
+SAT encoding: query on feature 212 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 88-th inst file out of 100
+SAT encoding: query on feature 246 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 89-th inst file out of 100
+SAT encoding: query on feature 53 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 90-th inst file out of 100
+SAT encoding: query on feature 219 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 91-th inst file out of 100
+SAT encoding: query on feature 65 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 92-th inst file out of 100
+SAT encoding: query on feature 42 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 93-th inst file out of 100
+SAT encoding: query on feature 118 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 94-th inst file out of 100
+SAT encoding: query on feature 83 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 95-th inst file out of 100
+SAT encoding: query on feature 21 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 96-th inst file out of 100
+SAT encoding: query on feature 171 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 97-th inst file out of 100
+SAT encoding: query on feature 178 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 98-th inst file out of 100
+SAT encoding: query on feature 250 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635, 99-th inst file out of 100
+SAT encoding: query on feature 260 out of 320 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 320.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s635 & 100 & 320 & nn & 100 (0) & 7904 & 18960 & 11.8 & 0.2 & 0.1 & 0.1
+
+############ s938 ############
+s938, 0-th inst file out of 100
+SAT encoding: query on feature 372 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 1-th inst file out of 100
+SAT encoding: query on feature 150 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 2-th inst file out of 100
+SAT encoding: query on feature 64 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 3-th inst file out of 100
+SAT encoding: query on feature 249 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 4-th inst file out of 100
+SAT encoding: query on feature 10 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 5-th inst file out of 100
+SAT encoding: query on feature 190 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 6-th inst file out of 100
+SAT encoding: query on feature 235 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+s938, 7-th inst file out of 100
+SAT encoding: query on feature 371 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 8-th inst file out of 100
+SAT encoding: query on feature 457 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 9-th inst file out of 100
+SAT encoding: query on feature 178 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 10-th inst file out of 100
+SAT encoding: query on feature 335 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+s938, 11-th inst file out of 100
+SAT encoding: query on feature 364 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 12-th inst file out of 100
+SAT encoding: query on feature 397 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 13-th inst file out of 100
+SAT encoding: query on feature 343 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 14-th inst file out of 100
+SAT encoding: query on feature 151 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 15-th inst file out of 100
+SAT encoding: query on feature 38 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 16-th inst file out of 100
+SAT encoding: query on feature 383 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 17-th inst file out of 100
+SAT encoding: query on feature 475 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 18-th inst file out of 100
+SAT encoding: query on feature 291 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 19-th inst file out of 100
+SAT encoding: query on feature 305 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 20-th inst file out of 100
+SAT encoding: query on feature 44 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 21-th inst file out of 100
+SAT encoding: query on feature 489 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 22-th inst file out of 100
+SAT encoding: query on feature 238 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 23-th inst file out of 100
+SAT encoding: query on feature 207 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 24-th inst file out of 100
+SAT encoding: query on feature 243 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 25-th inst file out of 100
+SAT encoding: query on feature 196 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 26-th inst file out of 100
+SAT encoding: query on feature 400 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 27-th inst file out of 100
+SAT encoding: query on feature 121 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 28-th inst file out of 100
+SAT encoding: query on feature 456 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 29-th inst file out of 100
+SAT encoding: query on feature 224 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 30-th inst file out of 100
+SAT encoding: query on feature 233 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 31-th inst file out of 100
+SAT encoding: query on feature 255 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 32-th inst file out of 100
+SAT encoding: query on feature 73 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 33-th inst file out of 100
+SAT encoding: query on feature 415 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 34-th inst file out of 100
+SAT encoding: query on feature 264 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 35-th inst file out of 100
+SAT encoding: query on feature 72 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 36-th inst file out of 100
+SAT encoding: query on feature 439 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 37-th inst file out of 100
+SAT encoding: query on feature 46 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 38-th inst file out of 100
+SAT encoding: query on feature 488 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.3 secs
+Answer Yes
+s938, 39-th inst file out of 100
+SAT encoding: query on feature 35 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 40-th inst file out of 100
+SAT encoding: query on feature 452 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 41-th inst file out of 100
+SAT encoding: query on feature 279 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 42-th inst file out of 100
+SAT encoding: query on feature 407 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 43-th inst file out of 100
+SAT encoding: query on feature 181 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 44-th inst file out of 100
+SAT encoding: query on feature 437 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 45-th inst file out of 100
+SAT encoding: query on feature 76 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 46-th inst file out of 100
+SAT encoding: query on feature 240 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 47-th inst file out of 100
+SAT encoding: query on feature 146 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 48-th inst file out of 100
+SAT encoding: query on feature 226 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 49-th inst file out of 100
+SAT encoding: query on feature 105 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 50-th inst file out of 100
+SAT encoding: query on feature 120 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 51-th inst file out of 100
+SAT encoding: query on feature 2 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 52-th inst file out of 100
+SAT encoding: query on feature 231 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 53-th inst file out of 100
+SAT encoding: query on feature 119 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 54-th inst file out of 100
+SAT encoding: query on feature 385 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 55-th inst file out of 100
+SAT encoding: query on feature 43 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 56-th inst file out of 100
+SAT encoding: query on feature 430 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 57-th inst file out of 100
+SAT encoding: query on feature 301 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 58-th inst file out of 100
+SAT encoding: query on feature 33 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 59-th inst file out of 100
+SAT encoding: query on feature 53 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 60-th inst file out of 100
+SAT encoding: query on feature 434 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 61-th inst file out of 100
+SAT encoding: query on feature 345 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 62-th inst file out of 100
+SAT encoding: query on feature 505 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 63-th inst file out of 100
+SAT encoding: query on feature 373 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.4 secs
+=============== no AXp exists ===============
+s938, 64-th inst file out of 100
+SAT encoding: query on feature 381 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 65-th inst file out of 100
+SAT encoding: query on feature 252 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 66-th inst file out of 100
+SAT encoding: query on feature 34 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 67-th inst file out of 100
+SAT encoding: query on feature 319 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 68-th inst file out of 100
+SAT encoding: query on feature 339 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 69-th inst file out of 100
+SAT encoding: query on feature 349 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 70-th inst file out of 100
+SAT encoding: query on feature 173 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 71-th inst file out of 100
+SAT encoding: query on feature 433 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 72-th inst file out of 100
+SAT encoding: query on feature 462 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 73-th inst file out of 100
+SAT encoding: query on feature 118 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 74-th inst file out of 100
+SAT encoding: query on feature 464 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 75-th inst file out of 100
+SAT encoding: query on feature 58 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 76-th inst file out of 100
+SAT encoding: query on feature 157 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 77-th inst file out of 100
+SAT encoding: query on feature 463 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 78-th inst file out of 100
+SAT encoding: query on feature 70 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 79-th inst file out of 100
+SAT encoding: query on feature 313 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 80-th inst file out of 100
+SAT encoding: query on feature 500 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 81-th inst file out of 100
+SAT encoding: query on feature 88 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 82-th inst file out of 100
+SAT encoding: query on feature 219 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 83-th inst file out of 100
+SAT encoding: query on feature 253 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 84-th inst file out of 100
+SAT encoding: query on feature 497 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 85-th inst file out of 100
+SAT encoding: query on feature 108 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 86-th inst file out of 100
+SAT encoding: query on feature 194 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 87-th inst file out of 100
+SAT encoding: query on feature 99 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 88-th inst file out of 100
+SAT encoding: query on feature 32 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 89-th inst file out of 100
+SAT encoding: query on feature 318 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 90-th inst file out of 100
+SAT encoding: query on feature 127 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 91-th inst file out of 100
+SAT encoding: query on feature 436 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 92-th inst file out of 100
+SAT encoding: query on feature 248 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 93-th inst file out of 100
+SAT encoding: query on feature 136 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 94-th inst file out of 100
+SAT encoding: query on feature 51 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 95-th inst file out of 100
+SAT encoding: query on feature 353 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 96-th inst file out of 100
+SAT encoding: query on feature 276 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.2 secs
+Answer Yes
+s938, 97-th inst file out of 100
+SAT encoding: query on feature 347 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 98-th inst file out of 100
+SAT encoding: query on feature 242 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938, 99-th inst file out of 100
+SAT encoding: query on feature 420 out of 512 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 512.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s938 & 100 & 512 & nn & 99 (0) & 13214 & 30656 & 21.6 & 0.5 & 0.2 & 0.2
+
+############ s967 ############
+s967, 0-th inst file out of 100
+SAT encoding: query on feature 63 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #130 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 1-th inst file out of 100
+SAT encoding: query on feature 378 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #156 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 2-th inst file out of 100
+SAT encoding: query on feature 234 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #155 vars set to free, out of 416.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s967, 3-th inst file out of 100
+SAT encoding: query on feature 316 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #152 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 4-th inst file out of 100
+SAT encoding: query on feature 121 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #137 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 5-th inst file out of 100
+SAT encoding: query on feature 31 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #143 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 6-th inst file out of 100
+SAT encoding: query on feature 235 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #138 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 7-th inst file out of 100
+SAT encoding: query on feature 97 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #152 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 8-th inst file out of 100
+SAT encoding: query on feature 242 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #145 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 9-th inst file out of 100
+SAT encoding: query on feature 346 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #145 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 10-th inst file out of 100
+SAT encoding: query on feature 24 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #135 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 11-th inst file out of 100
+SAT encoding: query on feature 274 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #157 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 12-th inst file out of 100
+SAT encoding: query on feature 89 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #156 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 13-th inst file out of 100
+SAT encoding: query on feature 197 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #135 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 14-th inst file out of 100
+SAT encoding: query on feature 328 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #148 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 15-th inst file out of 100
+SAT encoding: query on feature 34 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #148 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 16-th inst file out of 100
+SAT encoding: query on feature 364 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #144 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 17-th inst file out of 100
+SAT encoding: query on feature 296 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #144 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 18-th inst file out of 100
+SAT encoding: query on feature 350 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #160 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 19-th inst file out of 100
+SAT encoding: query on feature 376 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #159 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 20-th inst file out of 100
+SAT encoding: query on feature 14 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #149 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 21-th inst file out of 100
+SAT encoding: query on feature 157 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #153 vars set to free, out of 416.
+157 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 22-th inst file out of 100
+SAT encoding: query on feature 361 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #146 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 23-th inst file out of 100
+SAT encoding: query on feature 123 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #159 vars set to free, out of 416.
+123 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 24-th inst file out of 100
+SAT encoding: query on feature 0 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #162 vars set to free, out of 416.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s967, 25-th inst file out of 100
+SAT encoding: query on feature 206 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #148 vars set to free, out of 416.
+206 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 26-th inst file out of 100
+SAT encoding: query on feature 185 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #140 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 27-th inst file out of 100
+SAT encoding: query on feature 267 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #141 vars set to free, out of 416.
+267 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 28-th inst file out of 100
+SAT encoding: query on feature 370 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #150 vars set to free, out of 416.
+370 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 29-th inst file out of 100
+SAT encoding: query on feature 134 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #179 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 30-th inst file out of 100
+SAT encoding: query on feature 55 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #153 vars set to free, out of 416.
+55 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 31-th inst file out of 100
+SAT encoding: query on feature 317 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #155 vars set to free, out of 416.
+317 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 32-th inst file out of 100
+SAT encoding: query on feature 28 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #164 vars set to free, out of 416.
+28 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 33-th inst file out of 100
+SAT encoding: query on feature 98 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #148 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 34-th inst file out of 100
+SAT encoding: query on feature 69 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #144 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 35-th inst file out of 100
+SAT encoding: query on feature 41 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #158 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 36-th inst file out of 100
+SAT encoding: query on feature 415 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #139 vars set to free, out of 416.
+415 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 37-th inst file out of 100
+SAT encoding: query on feature 247 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #145 vars set to free, out of 416.
+247 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 38-th inst file out of 100
+SAT encoding: query on feature 331 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #139 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 39-th inst file out of 100
+SAT encoding: query on feature 81 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #136 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 40-th inst file out of 100
+SAT encoding: query on feature 281 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #154 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 41-th inst file out of 100
+SAT encoding: query on feature 201 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #145 vars set to free, out of 416.
+201 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 42-th inst file out of 100
+SAT encoding: query on feature 188 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #150 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 43-th inst file out of 100
+SAT encoding: query on feature 340 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #133 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 44-th inst file out of 100
+SAT encoding: query on feature 202 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #167 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 45-th inst file out of 100
+SAT encoding: query on feature 1 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #158 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 46-th inst file out of 100
+SAT encoding: query on feature 304 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #145 vars set to free, out of 416.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s967, 47-th inst file out of 100
+SAT encoding: query on feature 225 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #165 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 48-th inst file out of 100
+SAT encoding: query on feature 384 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #135 vars set to free, out of 416.
+384 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 49-th inst file out of 100
+SAT encoding: query on feature 403 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #153 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 50-th inst file out of 100
+SAT encoding: query on feature 393 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #157 vars set to free, out of 416.
+393 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 51-th inst file out of 100
+SAT encoding: query on feature 149 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #150 vars set to free, out of 416.
+149 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 52-th inst file out of 100
+SAT encoding: query on feature 283 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #151 vars set to free, out of 416.
+283 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 53-th inst file out of 100
+SAT encoding: query on feature 269 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #144 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 54-th inst file out of 100
+SAT encoding: query on feature 163 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #142 vars set to free, out of 416.
+163 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 55-th inst file out of 100
+SAT encoding: query on feature 153 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #156 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 56-th inst file out of 100
+SAT encoding: query on feature 278 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #143 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 57-th inst file out of 100
+SAT encoding: query on feature 310 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #158 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 58-th inst file out of 100
+SAT encoding: query on feature 244 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #144 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 59-th inst file out of 100
+SAT encoding: query on feature 359 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #157 vars set to free, out of 416.
+359 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 60-th inst file out of 100
+SAT encoding: query on feature 249 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #147 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 61-th inst file out of 100
+SAT encoding: query on feature 383 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #164 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 62-th inst file out of 100
+SAT encoding: query on feature 271 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #155 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 63-th inst file out of 100
+SAT encoding: query on feature 51 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #160 vars set to free, out of 416.
+51 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 64-th inst file out of 100
+SAT encoding: query on feature 338 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #159 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 65-th inst file out of 100
+SAT encoding: query on feature 319 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #123 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 66-th inst file out of 100
+SAT encoding: query on feature 410 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #151 vars set to free, out of 416.
+410 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 67-th inst file out of 100
+SAT encoding: query on feature 37 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #152 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 68-th inst file out of 100
+SAT encoding: query on feature 388 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #156 vars set to free, out of 416.
+388 is free before solving
+Start solving...
+Solving time: 0.1 secs
+=============== no AXp exists ===============
+s967, 69-th inst file out of 100
+SAT encoding: query on feature 113 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #145 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 70-th inst file out of 100
+SAT encoding: query on feature 186 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #169 vars set to free, out of 416.
+186 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 71-th inst file out of 100
+SAT encoding: query on feature 54 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #138 vars set to free, out of 416.
+54 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 72-th inst file out of 100
+SAT encoding: query on feature 334 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #160 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 73-th inst file out of 100
+SAT encoding: query on feature 107 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #163 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 74-th inst file out of 100
+SAT encoding: query on feature 6 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #150 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 75-th inst file out of 100
+SAT encoding: query on feature 217 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #158 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 76-th inst file out of 100
+SAT encoding: query on feature 32 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #146 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 77-th inst file out of 100
+SAT encoding: query on feature 10 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #161 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 78-th inst file out of 100
+SAT encoding: query on feature 253 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #160 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 79-th inst file out of 100
+SAT encoding: query on feature 240 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #141 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 80-th inst file out of 100
+SAT encoding: query on feature 335 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #152 vars set to free, out of 416.
+335 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 81-th inst file out of 100
+SAT encoding: query on feature 386 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #166 vars set to free, out of 416.
+386 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 82-th inst file out of 100
+SAT encoding: query on feature 261 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #148 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 83-th inst file out of 100
+SAT encoding: query on feature 102 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #142 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 84-th inst file out of 100
+SAT encoding: query on feature 165 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #145 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 85-th inst file out of 100
+SAT encoding: query on feature 248 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #141 vars set to free, out of 416.
+248 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 86-th inst file out of 100
+SAT encoding: query on feature 321 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #143 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 87-th inst file out of 100
+SAT encoding: query on feature 100 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #158 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 88-th inst file out of 100
+SAT encoding: query on feature 175 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #140 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 89-th inst file out of 100
+SAT encoding: query on feature 118 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #159 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 90-th inst file out of 100
+SAT encoding: query on feature 397 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #153 vars set to free, out of 416.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s967, 91-th inst file out of 100
+SAT encoding: query on feature 295 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #156 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 92-th inst file out of 100
+SAT encoding: query on feature 205 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #151 vars set to free, out of 416.
+205 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 93-th inst file out of 100
+SAT encoding: query on feature 287 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #152 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 94-th inst file out of 100
+SAT encoding: query on feature 161 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #157 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 95-th inst file out of 100
+SAT encoding: query on feature 166 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #147 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 96-th inst file out of 100
+SAT encoding: query on feature 402 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #142 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 97-th inst file out of 100
+SAT encoding: query on feature 183 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #151 vars set to free, out of 416.
+183 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s967, 98-th inst file out of 100
+SAT encoding: query on feature 297 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #139 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967, 99-th inst file out of 100
+SAT encoding: query on feature 66 out of 416 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #150 vars set to free, out of 416.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s967 & 100 & 416 & nn & 72 (0) & 4576 & 7666 & 5.4 & 0.1 & 0.0 & 0.1
+
+############ s991 ############
+s991, 0-th inst file out of 100
+SAT encoding: query on feature 519 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #198 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 1-th inst file out of 100
+SAT encoding: query on feature 252 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #178 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 2-th inst file out of 100
+SAT encoding: query on feature 581 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #202 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 3-th inst file out of 100
+SAT encoding: query on feature 467 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #213 vars set to free, out of 603.
+467 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 4-th inst file out of 100
+SAT encoding: query on feature 3 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #203 vars set to free, out of 603.
+3 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 5-th inst file out of 100
+SAT encoding: query on feature 162 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #199 vars set to free, out of 603.
+162 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 6-th inst file out of 100
+SAT encoding: query on feature 541 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #204 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 7-th inst file out of 100
+SAT encoding: query on feature 276 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #199 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 8-th inst file out of 100
+SAT encoding: query on feature 90 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #199 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 9-th inst file out of 100
+SAT encoding: query on feature 332 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #209 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 10-th inst file out of 100
+SAT encoding: query on feature 29 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #203 vars set to free, out of 603.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s991, 11-th inst file out of 100
+SAT encoding: query on feature 146 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #201 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 12-th inst file out of 100
+SAT encoding: query on feature 509 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #205 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 13-th inst file out of 100
+SAT encoding: query on feature 348 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #186 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 14-th inst file out of 100
+SAT encoding: query on feature 485 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #200 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 15-th inst file out of 100
+SAT encoding: query on feature 208 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #193 vars set to free, out of 603.
+208 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 16-th inst file out of 100
+SAT encoding: query on feature 245 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #203 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 17-th inst file out of 100
+SAT encoding: query on feature 164 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #204 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 18-th inst file out of 100
+SAT encoding: query on feature 456 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #219 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 19-th inst file out of 100
+SAT encoding: query on feature 258 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #222 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 20-th inst file out of 100
+SAT encoding: query on feature 438 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #212 vars set to free, out of 603.
+438 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 21-th inst file out of 100
+SAT encoding: query on feature 85 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #212 vars set to free, out of 603.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s991, 22-th inst file out of 100
+SAT encoding: query on feature 369 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #197 vars set to free, out of 603.
+369 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 23-th inst file out of 100
+SAT encoding: query on feature 27 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #198 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 24-th inst file out of 100
+SAT encoding: query on feature 190 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #201 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 25-th inst file out of 100
+SAT encoding: query on feature 469 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #217 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 26-th inst file out of 100
+SAT encoding: query on feature 170 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #192 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 27-th inst file out of 100
+SAT encoding: query on feature 501 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #190 vars set to free, out of 603.
+501 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 28-th inst file out of 100
+SAT encoding: query on feature 385 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #204 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 29-th inst file out of 100
+SAT encoding: query on feature 91 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #194 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 30-th inst file out of 100
+SAT encoding: query on feature 564 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #193 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 31-th inst file out of 100
+SAT encoding: query on feature 400 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #197 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 32-th inst file out of 100
+SAT encoding: query on feature 538 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #215 vars set to free, out of 603.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s991, 33-th inst file out of 100
+SAT encoding: query on feature 15 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #232 vars set to free, out of 603.
+15 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 34-th inst file out of 100
+SAT encoding: query on feature 439 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #209 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 35-th inst file out of 100
+SAT encoding: query on feature 499 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #199 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 36-th inst file out of 100
+SAT encoding: query on feature 405 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #204 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 37-th inst file out of 100
+SAT encoding: query on feature 197 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #201 vars set to free, out of 603.
+197 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 38-th inst file out of 100
+SAT encoding: query on feature 358 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #189 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 39-th inst file out of 100
+SAT encoding: query on feature 505 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #217 vars set to free, out of 603.
+505 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 40-th inst file out of 100
+SAT encoding: query on feature 487 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #208 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 41-th inst file out of 100
+SAT encoding: query on feature 235 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #220 vars set to free, out of 603.
+235 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 42-th inst file out of 100
+SAT encoding: query on feature 299 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #193 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 43-th inst file out of 100
+SAT encoding: query on feature 415 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #200 vars set to free, out of 603.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s991, 44-th inst file out of 100
+SAT encoding: query on feature 2 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #209 vars set to free, out of 603.
+2 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 45-th inst file out of 100
+SAT encoding: query on feature 596 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #237 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 46-th inst file out of 100
+SAT encoding: query on feature 39 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #187 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 47-th inst file out of 100
+SAT encoding: query on feature 222 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #213 vars set to free, out of 603.
+222 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 48-th inst file out of 100
+SAT encoding: query on feature 409 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #202 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 49-th inst file out of 100
+SAT encoding: query on feature 521 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #195 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 50-th inst file out of 100
+SAT encoding: query on feature 360 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #194 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 51-th inst file out of 100
+SAT encoding: query on feature 184 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #217 vars set to free, out of 603.
+184 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 52-th inst file out of 100
+SAT encoding: query on feature 38 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #217 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 53-th inst file out of 100
+SAT encoding: query on feature 343 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #208 vars set to free, out of 603.
+343 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 54-th inst file out of 100
+SAT encoding: query on feature 293 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #208 vars set to free, out of 603.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s991, 55-th inst file out of 100
+SAT encoding: query on feature 428 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #223 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 56-th inst file out of 100
+SAT encoding: query on feature 462 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #214 vars set to free, out of 603.
+462 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 57-th inst file out of 100
+SAT encoding: query on feature 490 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #231 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 58-th inst file out of 100
+SAT encoding: query on feature 294 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #205 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 59-th inst file out of 100
+SAT encoding: query on feature 306 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #221 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 60-th inst file out of 100
+SAT encoding: query on feature 290 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #208 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 61-th inst file out of 100
+SAT encoding: query on feature 565 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #208 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 62-th inst file out of 100
+SAT encoding: query on feature 364 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #201 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 63-th inst file out of 100
+SAT encoding: query on feature 425 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #207 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 64-th inst file out of 100
+SAT encoding: query on feature 398 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #208 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 65-th inst file out of 100
+SAT encoding: query on feature 233 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #193 vars set to free, out of 603.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s991, 66-th inst file out of 100
+SAT encoding: query on feature 65 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #189 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 67-th inst file out of 100
+SAT encoding: query on feature 529 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #210 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 68-th inst file out of 100
+SAT encoding: query on feature 389 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #210 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 69-th inst file out of 100
+SAT encoding: query on feature 378 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #186 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 70-th inst file out of 100
+SAT encoding: query on feature 66 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #213 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 71-th inst file out of 100
+SAT encoding: query on feature 600 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #188 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 72-th inst file out of 100
+SAT encoding: query on feature 240 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #199 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 73-th inst file out of 100
+SAT encoding: query on feature 211 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #205 vars set to free, out of 603.
+211 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 74-th inst file out of 100
+SAT encoding: query on feature 125 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #203 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 75-th inst file out of 100
+SAT encoding: query on feature 195 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #219 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 76-th inst file out of 100
+SAT encoding: query on feature 413 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #198 vars set to free, out of 603.
+Start solving...
+Solving time: 0.1 secs
+Answer Yes
+s991, 77-th inst file out of 100
+SAT encoding: query on feature 57 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #198 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 78-th inst file out of 100
+SAT encoding: query on feature 543 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #199 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 79-th inst file out of 100
+SAT encoding: query on feature 504 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #189 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 80-th inst file out of 100
+SAT encoding: query on feature 221 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #204 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 81-th inst file out of 100
+SAT encoding: query on feature 335 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #217 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 82-th inst file out of 100
+SAT encoding: query on feature 278 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #199 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 83-th inst file out of 100
+SAT encoding: query on feature 582 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #216 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 84-th inst file out of 100
+SAT encoding: query on feature 431 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #198 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 85-th inst file out of 100
+SAT encoding: query on feature 86 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #220 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 86-th inst file out of 100
+SAT encoding: query on feature 374 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #211 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 87-th inst file out of 100
+SAT encoding: query on feature 362 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #211 vars set to free, out of 603.
+362 is free before solving
+Start solving...
+Solving time: 0.1 secs
+=============== no AXp exists ===============
+s991, 88-th inst file out of 100
+SAT encoding: query on feature 303 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #202 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 89-th inst file out of 100
+SAT encoding: query on feature 514 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #193 vars set to free, out of 603.
+514 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 90-th inst file out of 100
+SAT encoding: query on feature 58 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #218 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 91-th inst file out of 100
+SAT encoding: query on feature 204 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #197 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 92-th inst file out of 100
+SAT encoding: query on feature 320 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #211 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 93-th inst file out of 100
+SAT encoding: query on feature 239 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #197 vars set to free, out of 603.
+239 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 94-th inst file out of 100
+SAT encoding: query on feature 248 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #193 vars set to free, out of 603.
+248 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 95-th inst file out of 100
+SAT encoding: query on feature 168 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #198 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 96-th inst file out of 100
+SAT encoding: query on feature 426 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #217 vars set to free, out of 603.
+426 is free before solving
+Start solving...
+Solving time: 0.0 secs
+=============== no AXp exists ===============
+s991, 97-th inst file out of 100
+SAT encoding: query on feature 481 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #190 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991, 98-th inst file out of 100
+SAT encoding: query on feature 403 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #204 vars set to free, out of 603.
+403 is free before solving
+Start solving...
+Solving time: 0.1 secs
+=============== no AXp exists ===============
+s991, 99-th inst file out of 100
+SAT encoding: query on feature 548 out of 603 features:
+(Answer) Feature Membership of SDD into CNF formulas ...
+There are #218 vars set to free, out of 603.
+Start solving...
+Solving time: 0.0 secs
+Answer Yes
+s991 & 100 & 603 & nn & 74 (0) & 5613 & 9100 & 6.2 & 0.1 & 0.0 & 0.1
+

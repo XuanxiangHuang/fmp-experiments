@@ -1,0 +1,2538 @@
+############ accidents ############
+accidents, 0-th inst file out of 32
+SAT encoding: query on feature 118 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 114.5 secs
+=============== no AXp exists ===============
+accidents, 1-th inst file out of 32
+SAT encoding: query on feature 47 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 132.4 secs
+=============== no AXp exists ===============
+accidents, 2-th inst file out of 32
+SAT encoding: query on feature 380 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 124.5 secs
+=============== no AXp exists ===============
+accidents, 3-th inst file out of 32
+SAT encoding: query on feature 259 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 129.6 secs
+=============== no AXp exists ===============
+accidents, 4-th inst file out of 32
+SAT encoding: query on feature 215 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 123.2 secs
+=============== no AXp exists ===============
+accidents, 5-th inst file out of 32
+SAT encoding: query on feature 65 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 123.4 secs
+=============== no AXp exists ===============
+accidents, 6-th inst file out of 32
+SAT encoding: query on feature 93 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 122.7 secs
+=============== no AXp exists ===============
+accidents, 7-th inst file out of 32
+SAT encoding: query on feature 71 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 128.1 secs
+=============== no AXp exists ===============
+accidents, 8-th inst file out of 32
+SAT encoding: query on feature 407 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 126.2 secs
+=============== no AXp exists ===============
+accidents, 9-th inst file out of 32
+SAT encoding: query on feature 63 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 126.5 secs
+=============== no AXp exists ===============
+accidents, 10-th inst file out of 32
+SAT encoding: query on feature 143 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 129.2 secs
+=============== no AXp exists ===============
+accidents, 11-th inst file out of 32
+SAT encoding: query on feature 188 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 129.7 secs
+=============== no AXp exists ===============
+accidents, 12-th inst file out of 32
+SAT encoding: query on feature 289 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 128.9 secs
+=============== no AXp exists ===============
+accidents, 13-th inst file out of 32
+SAT encoding: query on feature 262 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 128.0 secs
+=============== no AXp exists ===============
+accidents, 14-th inst file out of 32
+SAT encoding: query on feature 237 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 130.8 secs
+=============== no AXp exists ===============
+accidents, 15-th inst file out of 32
+SAT encoding: query on feature 199 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 119.5 secs
+=============== no AXp exists ===============
+accidents, 16-th inst file out of 32
+SAT encoding: query on feature 379 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 133.5 secs
+=============== no AXp exists ===============
+accidents, 17-th inst file out of 32
+SAT encoding: query on feature 186 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 132.4 secs
+=============== no AXp exists ===============
+accidents, 18-th inst file out of 32
+SAT encoding: query on feature 223 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 127.5 secs
+=============== no AXp exists ===============
+accidents, 19-th inst file out of 32
+SAT encoding: query on feature 231 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 124.3 secs
+=============== no AXp exists ===============
+accidents, 20-th inst file out of 32
+SAT encoding: query on feature 184 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 132.2 secs
+=============== no AXp exists ===============
+accidents, 21-th inst file out of 32
+SAT encoding: query on feature 134 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 129.3 secs
+=============== no AXp exists ===============
+accidents, 22-th inst file out of 32
+SAT encoding: query on feature 19 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 132.2 secs
+=============== no AXp exists ===============
+accidents, 23-th inst file out of 32
+SAT encoding: query on feature 200 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 130.7 secs
+=============== no AXp exists ===============
+accidents, 24-th inst file out of 32
+SAT encoding: query on feature 280 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 130.5 secs
+=============== no AXp exists ===============
+accidents, 25-th inst file out of 32
+SAT encoding: query on feature 350 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 127.9 secs
+=============== no AXp exists ===============
+accidents, 26-th inst file out of 32
+SAT encoding: query on feature 243 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 131.3 secs
+=============== no AXp exists ===============
+accidents, 27-th inst file out of 32
+SAT encoding: query on feature 393 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 127.1 secs
+=============== no AXp exists ===============
+accidents, 28-th inst file out of 32
+SAT encoding: query on feature 48 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 130.1 secs
+=============== no AXp exists ===============
+accidents, 29-th inst file out of 32
+SAT encoding: query on feature 254 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 132.8 secs
+=============== no AXp exists ===============
+accidents, 30-th inst file out of 32
+SAT encoding: query on feature 64 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 131.8 secs
+=============== no AXp exists ===============
+accidents, 31-th inst file out of 32
+SAT encoding: query on feature 381 out of 415 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 415.
+Start solving...
+Solving time: 137.9 secs
+=============== no AXp exists ===============
+accidents & 32 & 5428799 & 16280994 & 4115.2 & 137.9 & 114.5 & 128.6
+
+############ baudio ############
+baudio, 0-th inst file out of 34
+SAT encoding: query on feature 67 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 103.1 secs
+=============== no AXp exists ===============
+baudio, 1-th inst file out of 34
+SAT encoding: query on feature 266 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 105.0 secs
+=============== no AXp exists ===============
+baudio, 2-th inst file out of 34
+SAT encoding: query on feature 146 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 105.6 secs
+=============== no AXp exists ===============
+baudio, 3-th inst file out of 34
+SAT encoding: query on feature 223 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 99.3 secs
+=============== no AXp exists ===============
+baudio, 4-th inst file out of 34
+SAT encoding: query on feature 51 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 98.4 secs
+=============== no AXp exists ===============
+baudio, 5-th inst file out of 34
+SAT encoding: query on feature 80 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 100.4 secs
+=============== no AXp exists ===============
+baudio, 6-th inst file out of 34
+SAT encoding: query on feature 106 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 105.8 secs
+=============== no AXp exists ===============
+baudio, 7-th inst file out of 34
+SAT encoding: query on feature 163 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 105.7 secs
+=============== no AXp exists ===============
+baudio, 8-th inst file out of 34
+SAT encoding: query on feature 45 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 105.1 secs
+=============== no AXp exists ===============
+baudio, 9-th inst file out of 34
+SAT encoding: query on feature 73 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 102.3 secs
+=============== no AXp exists ===============
+baudio, 10-th inst file out of 34
+SAT encoding: query on feature 165 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 102.9 secs
+=============== no AXp exists ===============
+baudio, 11-th inst file out of 34
+SAT encoding: query on feature 211 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 102.5 secs
+=============== no AXp exists ===============
+baudio, 12-th inst file out of 34
+SAT encoding: query on feature 257 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 99.3 secs
+=============== no AXp exists ===============
+baudio, 13-th inst file out of 34
+SAT encoding: query on feature 94 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 96.0 secs
+=============== no AXp exists ===============
+baudio, 14-th inst file out of 34
+SAT encoding: query on feature 171 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 95.7 secs
+=============== no AXp exists ===============
+baudio, 15-th inst file out of 34
+SAT encoding: query on feature 207 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 104.5 secs
+=============== no AXp exists ===============
+baudio, 16-th inst file out of 34
+SAT encoding: query on feature 147 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 108.7 secs
+=============== no AXp exists ===============
+baudio, 17-th inst file out of 34
+SAT encoding: query on feature 263 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 103.4 secs
+=============== no AXp exists ===============
+baudio, 18-th inst file out of 34
+SAT encoding: query on feature 174 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 113.3 secs
+=============== no AXp exists ===============
+baudio, 19-th inst file out of 34
+SAT encoding: query on feature 169 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 109.8 secs
+=============== no AXp exists ===============
+baudio, 20-th inst file out of 34
+SAT encoding: query on feature 104 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 113.8 secs
+=============== no AXp exists ===============
+baudio, 21-th inst file out of 34
+SAT encoding: query on feature 81 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 104.4 secs
+=============== no AXp exists ===============
+baudio, 22-th inst file out of 34
+SAT encoding: query on feature 189 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 97.4 secs
+=============== no AXp exists ===============
+baudio, 23-th inst file out of 34
+SAT encoding: query on feature 89 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 98.5 secs
+=============== no AXp exists ===============
+baudio, 24-th inst file out of 34
+SAT encoding: query on feature 197 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 98.6 secs
+=============== no AXp exists ===============
+baudio, 25-th inst file out of 34
+SAT encoding: query on feature 75 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 95.1 secs
+=============== no AXp exists ===============
+baudio, 26-th inst file out of 34
+SAT encoding: query on feature 195 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 96.2 secs
+=============== no AXp exists ===============
+baudio, 27-th inst file out of 34
+SAT encoding: query on feature 37 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 99.7 secs
+=============== no AXp exists ===============
+baudio, 28-th inst file out of 34
+SAT encoding: query on feature 249 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 101.9 secs
+=============== no AXp exists ===============
+baudio, 29-th inst file out of 34
+SAT encoding: query on feature 219 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 102.7 secs
+=============== no AXp exists ===============
+baudio, 30-th inst file out of 34
+SAT encoding: query on feature 241 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 104.0 secs
+=============== no AXp exists ===============
+baudio, 31-th inst file out of 34
+SAT encoding: query on feature 237 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 139.1 secs
+=============== no AXp exists ===============
+baudio, 32-th inst file out of 34
+SAT encoding: query on feature 212 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 148.3 secs
+=============== no AXp exists ===============
+baudio, 33-th inst file out of 34
+SAT encoding: query on feature 57 out of 272 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 272.
+Start solving...
+Solving time: 98.2 secs
+=============== no AXp exists ===============
+baudio & 34 & 4214846 & 13782407 & 3572.4 & 148.8 & 95.6 & 105.1
+
+############ dna ############
+dna, 0-th inst file out of 18
+SAT encoding: query on feature 494 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 173.0 secs
+=============== no AXp exists ===============
+dna, 1-th inst file out of 18
+SAT encoding: query on feature 20 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 173.9 secs
+=============== no AXp exists ===============
+dna, 2-th inst file out of 18
+SAT encoding: query on feature 124 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 172.9 secs
+=============== no AXp exists ===============
+dna, 3-th inst file out of 18
+SAT encoding: query on feature 241 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 173.2 secs
+=============== no AXp exists ===============
+dna, 4-th inst file out of 18
+SAT encoding: query on feature 101 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 168.9 secs
+=============== no AXp exists ===============
+dna, 5-th inst file out of 18
+SAT encoding: query on feature 495 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 172.1 secs
+=============== no AXp exists ===============
+dna, 6-th inst file out of 18
+SAT encoding: query on feature 456 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 170.1 secs
+=============== no AXp exists ===============
+dna, 7-th inst file out of 18
+SAT encoding: query on feature 170 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 173.2 secs
+=============== no AXp exists ===============
+dna, 8-th inst file out of 18
+SAT encoding: query on feature 107 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 171.5 secs
+=============== no AXp exists ===============
+dna, 9-th inst file out of 18
+SAT encoding: query on feature 128 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 173.7 secs
+=============== no AXp exists ===============
+dna, 10-th inst file out of 18
+SAT encoding: query on feature 292 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 171.5 secs
+=============== no AXp exists ===============
+dna, 11-th inst file out of 18
+SAT encoding: query on feature 371 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 182.9 secs
+=============== no AXp exists ===============
+dna, 12-th inst file out of 18
+SAT encoding: query on feature 273 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 184.1 secs
+=============== no AXp exists ===============
+dna, 13-th inst file out of 18
+SAT encoding: query on feature 125 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 194.2 secs
+=============== no AXp exists ===============
+dna, 14-th inst file out of 18
+SAT encoding: query on feature 51 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 212.6 secs
+=============== no AXp exists ===============
+dna, 15-th inst file out of 18
+SAT encoding: query on feature 462 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 207.6 secs
+=============== no AXp exists ===============
+dna, 16-th inst file out of 18
+SAT encoding: query on feature 364 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 203.8 secs
+=============== no AXp exists ===============
+dna, 17-th inst file out of 18
+SAT encoding: query on feature 222 out of 513 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 513.
+Start solving...
+Solving time: 204.5 secs
+=============== no AXp exists ===============
+dna & 18 & 7361507 & 23460504 & 3283.4 & 212.4 & 169.5 & 182.4
+
+############ jester ############
+jester, 0-th inst file out of 35
+SAT encoding: query on feature 52 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 128.7 secs
+=============== no AXp exists ===============
+jester, 1-th inst file out of 35
+SAT encoding: query on feature 252 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 130.3 secs
+=============== no AXp exists ===============
+jester, 2-th inst file out of 35
+SAT encoding: query on feature 235 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 132.4 secs
+=============== no AXp exists ===============
+jester, 3-th inst file out of 35
+SAT encoding: query on feature 148 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 130.9 secs
+=============== no AXp exists ===============
+jester, 4-th inst file out of 35
+SAT encoding: query on feature 135 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 112.9 secs
+=============== no AXp exists ===============
+jester, 5-th inst file out of 35
+SAT encoding: query on feature 213 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 130.0 secs
+=============== no AXp exists ===============
+jester, 6-th inst file out of 35
+SAT encoding: query on feature 244 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 130.6 secs
+=============== no AXp exists ===============
+jester, 7-th inst file out of 35
+SAT encoding: query on feature 34 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 112.1 secs
+=============== no AXp exists ===============
+jester, 8-th inst file out of 35
+SAT encoding: query on feature 204 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 113.8 secs
+=============== no AXp exists ===============
+jester, 9-th inst file out of 35
+SAT encoding: query on feature 163 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 113.0 secs
+=============== no AXp exists ===============
+jester, 10-th inst file out of 35
+SAT encoding: query on feature 172 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 114.0 secs
+=============== no AXp exists ===============
+jester, 11-th inst file out of 35
+SAT encoding: query on feature 191 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 111.6 secs
+=============== no AXp exists ===============
+jester, 12-th inst file out of 35
+SAT encoding: query on feature 190 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 111.5 secs
+=============== no AXp exists ===============
+jester, 13-th inst file out of 35
+SAT encoding: query on feature 196 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 111.7 secs
+=============== no AXp exists ===============
+jester, 14-th inst file out of 35
+SAT encoding: query on feature 179 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 109.7 secs
+=============== no AXp exists ===============
+jester, 15-th inst file out of 35
+SAT encoding: query on feature 42 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 110.7 secs
+=============== no AXp exists ===============
+jester, 16-th inst file out of 35
+SAT encoding: query on feature 230 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 111.2 secs
+=============== no AXp exists ===============
+jester, 17-th inst file out of 35
+SAT encoding: query on feature 127 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 112.7 secs
+=============== no AXp exists ===============
+jester, 18-th inst file out of 35
+SAT encoding: query on feature 145 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 110.3 secs
+=============== no AXp exists ===============
+jester, 19-th inst file out of 35
+SAT encoding: query on feature 98 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 110.6 secs
+=============== no AXp exists ===============
+jester, 20-th inst file out of 35
+SAT encoding: query on feature 67 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 112.2 secs
+=============== no AXp exists ===============
+jester, 21-th inst file out of 35
+SAT encoding: query on feature 47 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 117.5 secs
+=============== no AXp exists ===============
+jester, 22-th inst file out of 35
+SAT encoding: query on feature 194 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 116.4 secs
+=============== no AXp exists ===============
+jester, 23-th inst file out of 35
+SAT encoding: query on feature 113 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 127.3 secs
+=============== no AXp exists ===============
+jester, 24-th inst file out of 35
+SAT encoding: query on feature 211 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 116.3 secs
+=============== no AXp exists ===============
+jester, 25-th inst file out of 35
+SAT encoding: query on feature 13 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 111.5 secs
+=============== no AXp exists ===============
+jester, 26-th inst file out of 35
+SAT encoding: query on feature 57 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 111.7 secs
+=============== no AXp exists ===============
+jester, 27-th inst file out of 35
+SAT encoding: query on feature 14 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 110.6 secs
+=============== no AXp exists ===============
+jester, 28-th inst file out of 35
+SAT encoding: query on feature 87 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 108.9 secs
+=============== no AXp exists ===============
+jester, 29-th inst file out of 35
+SAT encoding: query on feature 159 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 110.5 secs
+=============== no AXp exists ===============
+jester, 30-th inst file out of 35
+SAT encoding: query on feature 223 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 110.6 secs
+=============== no AXp exists ===============
+jester, 31-th inst file out of 35
+SAT encoding: query on feature 26 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 112.0 secs
+=============== no AXp exists ===============
+jester, 32-th inst file out of 35
+SAT encoding: query on feature 218 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 109.5 secs
+=============== no AXp exists ===============
+jester, 33-th inst file out of 35
+SAT encoding: query on feature 75 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 110.0 secs
+=============== no AXp exists ===============
+jester, 34-th inst file out of 35
+SAT encoding: query on feature 207 out of 254 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 254.
+Start solving...
+Solving time: 111.7 secs
+=============== no AXp exists ===============
+jester & 35 & 4557614 & 15492017 & 4058.3 & 132.5 & 109.5 & 116.0
+
+############ kdd ############
+kdd, 0-th inst file out of 38
+SAT encoding: query on feature 195 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 98.3 secs
+=============== no AXp exists ===============
+kdd, 1-th inst file out of 38
+SAT encoding: query on feature 139 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 88.7 secs
+=============== no AXp exists ===============
+kdd, 2-th inst file out of 38
+SAT encoding: query on feature 99 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 89.6 secs
+=============== no AXp exists ===============
+kdd, 3-th inst file out of 38
+SAT encoding: query on feature 263 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 89.3 secs
+=============== no AXp exists ===============
+kdd, 4-th inst file out of 38
+SAT encoding: query on feature 283 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 88.4 secs
+=============== no AXp exists ===============
+kdd, 5-th inst file out of 38
+SAT encoding: query on feature 87 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 94.3 secs
+=============== no AXp exists ===============
+kdd, 6-th inst file out of 38
+SAT encoding: query on feature 220 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 90.4 secs
+=============== no AXp exists ===============
+kdd, 7-th inst file out of 38
+SAT encoding: query on feature 119 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 88.5 secs
+=============== no AXp exists ===============
+kdd, 8-th inst file out of 38
+SAT encoding: query on feature 251 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 90.9 secs
+=============== no AXp exists ===============
+kdd, 9-th inst file out of 38
+SAT encoding: query on feature 16 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 93.2 secs
+=============== no AXp exists ===============
+kdd, 10-th inst file out of 38
+SAT encoding: query on feature 94 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 93.2 secs
+=============== no AXp exists ===============
+kdd, 11-th inst file out of 38
+SAT encoding: query on feature 299 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 91.8 secs
+=============== no AXp exists ===============
+kdd, 12-th inst file out of 38
+SAT encoding: query on feature 1 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 92.5 secs
+=============== no AXp exists ===============
+kdd, 13-th inst file out of 38
+SAT encoding: query on feature 149 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 92.2 secs
+=============== no AXp exists ===============
+kdd, 14-th inst file out of 38
+SAT encoding: query on feature 11 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 91.4 secs
+=============== no AXp exists ===============
+kdd, 15-th inst file out of 38
+SAT encoding: query on feature 165 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 91.0 secs
+=============== no AXp exists ===============
+kdd, 16-th inst file out of 38
+SAT encoding: query on feature 267 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 90.1 secs
+=============== no AXp exists ===============
+kdd, 17-th inst file out of 38
+SAT encoding: query on feature 14 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 96.7 secs
+=============== no AXp exists ===============
+kdd, 18-th inst file out of 38
+SAT encoding: query on feature 191 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 92.3 secs
+=============== no AXp exists ===============
+kdd, 19-th inst file out of 38
+SAT encoding: query on feature 183 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 90.3 secs
+=============== no AXp exists ===============
+kdd, 20-th inst file out of 38
+SAT encoding: query on feature 281 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 89.4 secs
+=============== no AXp exists ===============
+kdd, 21-th inst file out of 38
+SAT encoding: query on feature 128 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 89.5 secs
+=============== no AXp exists ===============
+kdd, 22-th inst file out of 38
+SAT encoding: query on feature 88 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 89.1 secs
+=============== no AXp exists ===============
+kdd, 23-th inst file out of 38
+SAT encoding: query on feature 108 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 88.5 secs
+=============== no AXp exists ===============
+kdd, 24-th inst file out of 38
+SAT encoding: query on feature 62 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 89.5 secs
+=============== no AXp exists ===============
+kdd, 25-th inst file out of 38
+SAT encoding: query on feature 147 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 88.0 secs
+=============== no AXp exists ===============
+kdd, 26-th inst file out of 38
+SAT encoding: query on feature 196 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 89.0 secs
+=============== no AXp exists ===============
+kdd, 27-th inst file out of 38
+SAT encoding: query on feature 103 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 87.5 secs
+=============== no AXp exists ===============
+kdd, 28-th inst file out of 38
+SAT encoding: query on feature 157 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 88.4 secs
+=============== no AXp exists ===============
+kdd, 29-th inst file out of 38
+SAT encoding: query on feature 2 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 85.8 secs
+=============== no AXp exists ===============
+kdd, 30-th inst file out of 38
+SAT encoding: query on feature 43 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 88.5 secs
+=============== no AXp exists ===============
+kdd, 31-th inst file out of 38
+SAT encoding: query on feature 111 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 86.8 secs
+=============== no AXp exists ===============
+kdd, 32-th inst file out of 38
+SAT encoding: query on feature 123 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 88.0 secs
+=============== no AXp exists ===============
+kdd, 33-th inst file out of 38
+SAT encoding: query on feature 59 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 89.1 secs
+=============== no AXp exists ===============
+kdd, 34-th inst file out of 38
+SAT encoding: query on feature 273 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 88.1 secs
+=============== no AXp exists ===============
+kdd, 35-th inst file out of 38
+SAT encoding: query on feature 244 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 89.6 secs
+=============== no AXp exists ===============
+kdd, 36-th inst file out of 38
+SAT encoding: query on feature 68 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 87.7 secs
+=============== no AXp exists ===============
+kdd, 37-th inst file out of 38
+SAT encoding: query on feature 158 out of 306 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 306.
+Start solving...
+Solving time: 96.0 secs
+=============== no AXp exists ===============
+kdd & 38 & 4006042 & 12813875 & 3442.3 & 98.0 & 86.3 & 90.6
+
+############ mushrooms ############
+mushrooms, 0-th inst file out of 59
+SAT encoding: query on feature 180 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.3 secs
+=============== no AXp exists ===============
+mushrooms, 1-th inst file out of 59
+SAT encoding: query on feature 220 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 67.9 secs
+=============== no AXp exists ===============
+mushrooms, 2-th inst file out of 59
+SAT encoding: query on feature 98 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.8 secs
+=============== no AXp exists ===============
+mushrooms, 3-th inst file out of 59
+SAT encoding: query on feature 8 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+mushrooms, 4-th inst file out of 59
+SAT encoding: query on feature 190 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 5-th inst file out of 59
+SAT encoding: query on feature 100 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.5 secs
+=============== no AXp exists ===============
+mushrooms, 6-th inst file out of 59
+SAT encoding: query on feature 246 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 7-th inst file out of 59
+SAT encoding: query on feature 11 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+mushrooms, 8-th inst file out of 59
+SAT encoding: query on feature 48 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.1 secs
+=============== no AXp exists ===============
+mushrooms, 9-th inst file out of 59
+SAT encoding: query on feature 114 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.4 secs
+=============== no AXp exists ===============
+mushrooms, 10-th inst file out of 59
+SAT encoding: query on feature 34 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.6 secs
+=============== no AXp exists ===============
+mushrooms, 11-th inst file out of 59
+SAT encoding: query on feature 200 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.0 secs
+=============== no AXp exists ===============
+mushrooms, 12-th inst file out of 59
+SAT encoding: query on feature 169 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.5 secs
+=============== no AXp exists ===============
+mushrooms, 13-th inst file out of 59
+SAT encoding: query on feature 23 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+mushrooms, 14-th inst file out of 59
+SAT encoding: query on feature 60 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.9 secs
+=============== no AXp exists ===============
+mushrooms, 15-th inst file out of 59
+SAT encoding: query on feature 35 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+mushrooms, 16-th inst file out of 59
+SAT encoding: query on feature 118 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.9 secs
+=============== no AXp exists ===============
+mushrooms, 17-th inst file out of 59
+SAT encoding: query on feature 45 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+mushrooms, 18-th inst file out of 59
+SAT encoding: query on feature 206 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.4 secs
+=============== no AXp exists ===============
+mushrooms, 19-th inst file out of 59
+SAT encoding: query on feature 78 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.3 secs
+=============== no AXp exists ===============
+mushrooms, 20-th inst file out of 59
+SAT encoding: query on feature 97 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.3 secs
+=============== no AXp exists ===============
+mushrooms, 21-th inst file out of 59
+SAT encoding: query on feature 59 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 74.4 secs
+=============== no AXp exists ===============
+mushrooms, 22-th inst file out of 59
+SAT encoding: query on feature 142 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 70.1 secs
+=============== no AXp exists ===============
+mushrooms, 23-th inst file out of 59
+SAT encoding: query on feature 86 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.1 secs
+=============== no AXp exists ===============
+mushrooms, 24-th inst file out of 59
+SAT encoding: query on feature 16 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 70.2 secs
+=============== no AXp exists ===============
+mushrooms, 25-th inst file out of 59
+SAT encoding: query on feature 79 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.9 secs
+=============== no AXp exists ===============
+mushrooms, 26-th inst file out of 59
+SAT encoding: query on feature 224 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+mushrooms, 27-th inst file out of 59
+SAT encoding: query on feature 241 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.0 secs
+=============== no AXp exists ===============
+mushrooms, 28-th inst file out of 59
+SAT encoding: query on feature 191 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.6 secs
+=============== no AXp exists ===============
+mushrooms, 29-th inst file out of 59
+SAT encoding: query on feature 137 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.5 secs
+=============== no AXp exists ===============
+mushrooms, 30-th inst file out of 59
+SAT encoding: query on feature 234 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.8 secs
+=============== no AXp exists ===============
+mushrooms, 31-th inst file out of 59
+SAT encoding: query on feature 149 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.4 secs
+=============== no AXp exists ===============
+mushrooms, 32-th inst file out of 59
+SAT encoding: query on feature 4 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 67.2 secs
+=============== no AXp exists ===============
+mushrooms, 33-th inst file out of 59
+SAT encoding: query on feature 138 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.6 secs
+=============== no AXp exists ===============
+mushrooms, 34-th inst file out of 59
+SAT encoding: query on feature 38 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 35-th inst file out of 59
+SAT encoding: query on feature 136 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 36-th inst file out of 59
+SAT encoding: query on feature 211 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.9 secs
+=============== no AXp exists ===============
+mushrooms, 37-th inst file out of 59
+SAT encoding: query on feature 184 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.3 secs
+=============== no AXp exists ===============
+mushrooms, 38-th inst file out of 59
+SAT encoding: query on feature 146 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.6 secs
+=============== no AXp exists ===============
+mushrooms, 39-th inst file out of 59
+SAT encoding: query on feature 151 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.5 secs
+=============== no AXp exists ===============
+mushrooms, 40-th inst file out of 59
+SAT encoding: query on feature 155 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.2 secs
+=============== no AXp exists ===============
+mushrooms, 41-th inst file out of 59
+SAT encoding: query on feature 22 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+mushrooms, 42-th inst file out of 59
+SAT encoding: query on feature 204 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.5 secs
+=============== no AXp exists ===============
+mushrooms, 43-th inst file out of 59
+SAT encoding: query on feature 209 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 44-th inst file out of 59
+SAT encoding: query on feature 131 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+mushrooms, 45-th inst file out of 59
+SAT encoding: query on feature 171 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 46-th inst file out of 59
+SAT encoding: query on feature 26 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.3 secs
+=============== no AXp exists ===============
+mushrooms, 47-th inst file out of 59
+SAT encoding: query on feature 156 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.7 secs
+=============== no AXp exists ===============
+mushrooms, 48-th inst file out of 59
+SAT encoding: query on feature 179 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.6 secs
+=============== no AXp exists ===============
+mushrooms, 49-th inst file out of 59
+SAT encoding: query on feature 94 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.8 secs
+=============== no AXp exists ===============
+mushrooms, 50-th inst file out of 59
+SAT encoding: query on feature 30 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.4 secs
+=============== no AXp exists ===============
+mushrooms, 51-th inst file out of 59
+SAT encoding: query on feature 75 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.2 secs
+=============== no AXp exists ===============
+mushrooms, 52-th inst file out of 59
+SAT encoding: query on feature 226 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 53-th inst file out of 59
+SAT encoding: query on feature 105 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 54-th inst file out of 59
+SAT encoding: query on feature 202 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 55-th inst file out of 59
+SAT encoding: query on feature 125 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+mushrooms, 56-th inst file out of 59
+SAT encoding: query on feature 65 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.2 secs
+=============== no AXp exists ===============
+mushrooms, 57-th inst file out of 59
+SAT encoding: query on feature 117 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.4 secs
+=============== no AXp exists ===============
+mushrooms, 58-th inst file out of 59
+SAT encoding: query on feature 46 out of 248 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 248.
+Start solving...
+Solving time: 68.4 secs
+=============== no AXp exists ===============
+mushrooms & 59 & 2941685 & 10222697 & 4098.3 & 74.8 & 67.4 & 69.5
+
+############ bnetflix ############
+bnetflix, 0-th inst file out of 41
+SAT encoding: query on feature 245 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 80.7 secs
+=============== no AXp exists ===============
+bnetflix, 1-th inst file out of 41
+SAT encoding: query on feature 162 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.5 secs
+=============== no AXp exists ===============
+bnetflix, 2-th inst file out of 41
+SAT encoding: query on feature 187 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.3 secs
+=============== no AXp exists ===============
+bnetflix, 3-th inst file out of 41
+SAT encoding: query on feature 32 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.9 secs
+=============== no AXp exists ===============
+bnetflix, 4-th inst file out of 41
+SAT encoding: query on feature 263 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.0 secs
+=============== no AXp exists ===============
+bnetflix, 5-th inst file out of 41
+SAT encoding: query on feature 195 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.1 secs
+=============== no AXp exists ===============
+bnetflix, 6-th inst file out of 41
+SAT encoding: query on feature 262 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.5 secs
+=============== no AXp exists ===============
+bnetflix, 7-th inst file out of 41
+SAT encoding: query on feature 203 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.8 secs
+=============== no AXp exists ===============
+bnetflix, 8-th inst file out of 41
+SAT encoding: query on feature 219 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.2 secs
+=============== no AXp exists ===============
+bnetflix, 9-th inst file out of 41
+SAT encoding: query on feature 197 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.8 secs
+=============== no AXp exists ===============
+bnetflix, 10-th inst file out of 41
+SAT encoding: query on feature 190 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 88.6 secs
+=============== no AXp exists ===============
+bnetflix, 11-th inst file out of 41
+SAT encoding: query on feature 66 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.7 secs
+=============== no AXp exists ===============
+bnetflix, 12-th inst file out of 41
+SAT encoding: query on feature 29 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.7 secs
+=============== no AXp exists ===============
+bnetflix, 13-th inst file out of 41
+SAT encoding: query on feature 222 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 85.2 secs
+=============== no AXp exists ===============
+bnetflix, 14-th inst file out of 41
+SAT encoding: query on feature 212 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.8 secs
+=============== no AXp exists ===============
+bnetflix, 15-th inst file out of 41
+SAT encoding: query on feature 247 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.9 secs
+=============== no AXp exists ===============
+bnetflix, 16-th inst file out of 41
+SAT encoding: query on feature 53 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.7 secs
+=============== no AXp exists ===============
+bnetflix, 17-th inst file out of 41
+SAT encoding: query on feature 129 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.8 secs
+=============== no AXp exists ===============
+bnetflix, 18-th inst file out of 41
+SAT encoding: query on feature 228 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.1 secs
+=============== no AXp exists ===============
+bnetflix, 19-th inst file out of 41
+SAT encoding: query on feature 77 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.5 secs
+=============== no AXp exists ===============
+bnetflix, 20-th inst file out of 41
+SAT encoding: query on feature 270 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.9 secs
+=============== no AXp exists ===============
+bnetflix, 21-th inst file out of 41
+SAT encoding: query on feature 223 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.9 secs
+=============== no AXp exists ===============
+bnetflix, 22-th inst file out of 41
+SAT encoding: query on feature 36 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.3 secs
+=============== no AXp exists ===============
+bnetflix, 23-th inst file out of 41
+SAT encoding: query on feature 2 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.4 secs
+=============== no AXp exists ===============
+bnetflix, 24-th inst file out of 41
+SAT encoding: query on feature 102 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.6 secs
+=============== no AXp exists ===============
+bnetflix, 25-th inst file out of 41
+SAT encoding: query on feature 89 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.7 secs
+=============== no AXp exists ===============
+bnetflix, 26-th inst file out of 41
+SAT encoding: query on feature 68 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.0 secs
+=============== no AXp exists ===============
+bnetflix, 27-th inst file out of 41
+SAT encoding: query on feature 146 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.2 secs
+=============== no AXp exists ===============
+bnetflix, 28-th inst file out of 41
+SAT encoding: query on feature 230 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.8 secs
+=============== no AXp exists ===============
+bnetflix, 29-th inst file out of 41
+SAT encoding: query on feature 38 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.7 secs
+=============== no AXp exists ===============
+bnetflix, 30-th inst file out of 41
+SAT encoding: query on feature 101 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.6 secs
+=============== no AXp exists ===============
+bnetflix, 31-th inst file out of 41
+SAT encoding: query on feature 55 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.0 secs
+=============== no AXp exists ===============
+bnetflix, 32-th inst file out of 41
+SAT encoding: query on feature 22 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.0 secs
+=============== no AXp exists ===============
+bnetflix, 33-th inst file out of 41
+SAT encoding: query on feature 275 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.3 secs
+=============== no AXp exists ===============
+bnetflix, 34-th inst file out of 41
+SAT encoding: query on feature 123 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.1 secs
+=============== no AXp exists ===============
+bnetflix, 35-th inst file out of 41
+SAT encoding: query on feature 271 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.6 secs
+=============== no AXp exists ===============
+bnetflix, 36-th inst file out of 41
+SAT encoding: query on feature 61 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.6 secs
+=============== no AXp exists ===============
+bnetflix, 37-th inst file out of 41
+SAT encoding: query on feature 250 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 84.4 secs
+=============== no AXp exists ===============
+bnetflix, 38-th inst file out of 41
+SAT encoding: query on feature 170 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.6 secs
+=============== no AXp exists ===============
+bnetflix, 39-th inst file out of 41
+SAT encoding: query on feature 64 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 82.9 secs
+=============== no AXp exists ===============
+bnetflix, 40-th inst file out of 41
+SAT encoding: query on feature 114 out of 292 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 292.
+Start solving...
+Solving time: 83.9 secs
+=============== no AXp exists ===============
+bnetflix & 41 & 3696194 & 12206675 & 3440.0 & 88.9 & 80.8 & 83.9
+
+############ plants ############
+plants, 0-th inst file out of 33
+SAT encoding: query on feature 6 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 68.9 secs
+=============== no AXp exists ===============
+plants, 1-th inst file out of 33
+SAT encoding: query on feature 114 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 70.1 secs
+=============== no AXp exists ===============
+plants, 2-th inst file out of 33
+SAT encoding: query on feature 14 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.1 secs
+=============== no AXp exists ===============
+plants, 3-th inst file out of 33
+SAT encoding: query on feature 104 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.4 secs
+=============== no AXp exists ===============
+plants, 4-th inst file out of 33
+SAT encoding: query on feature 242 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+plants, 5-th inst file out of 33
+SAT encoding: query on feature 234 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 70.0 secs
+=============== no AXp exists ===============
+plants, 6-th inst file out of 33
+SAT encoding: query on feature 166 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.0 secs
+=============== no AXp exists ===============
+plants, 7-th inst file out of 33
+SAT encoding: query on feature 236 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.3 secs
+=============== no AXp exists ===============
+plants, 8-th inst file out of 33
+SAT encoding: query on feature 228 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.1 secs
+=============== no AXp exists ===============
+plants, 9-th inst file out of 33
+SAT encoding: query on feature 195 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+plants, 10-th inst file out of 33
+SAT encoding: query on feature 232 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+plants, 11-th inst file out of 33
+SAT encoding: query on feature 40 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.7 secs
+=============== no AXp exists ===============
+plants, 12-th inst file out of 33
+SAT encoding: query on feature 112 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.8 secs
+=============== no AXp exists ===============
+plants, 13-th inst file out of 33
+SAT encoding: query on feature 189 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 70.4 secs
+=============== no AXp exists ===============
+plants, 14-th inst file out of 33
+SAT encoding: query on feature 126 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.1 secs
+=============== no AXp exists ===============
+plants, 15-th inst file out of 33
+SAT encoding: query on feature 91 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 70.5 secs
+=============== no AXp exists ===============
+plants, 16-th inst file out of 33
+SAT encoding: query on feature 224 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.1 secs
+=============== no AXp exists ===============
+plants, 17-th inst file out of 33
+SAT encoding: query on feature 176 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.3 secs
+=============== no AXp exists ===============
+plants, 18-th inst file out of 33
+SAT encoding: query on feature 209 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.9 secs
+=============== no AXp exists ===============
+plants, 19-th inst file out of 33
+SAT encoding: query on feature 41 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.6 secs
+=============== no AXp exists ===============
+plants, 20-th inst file out of 33
+SAT encoding: query on feature 124 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 70.0 secs
+=============== no AXp exists ===============
+plants, 21-th inst file out of 33
+SAT encoding: query on feature 2 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 70.5 secs
+=============== no AXp exists ===============
+plants, 22-th inst file out of 33
+SAT encoding: query on feature 218 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.0 secs
+=============== no AXp exists ===============
+plants, 23-th inst file out of 33
+SAT encoding: query on feature 61 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.0 secs
+=============== no AXp exists ===============
+plants, 24-th inst file out of 33
+SAT encoding: query on feature 107 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.1 secs
+=============== no AXp exists ===============
+plants, 25-th inst file out of 33
+SAT encoding: query on feature 50 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.1 secs
+=============== no AXp exists ===============
+plants, 26-th inst file out of 33
+SAT encoding: query on feature 235 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.6 secs
+=============== no AXp exists ===============
+plants, 27-th inst file out of 33
+SAT encoding: query on feature 208 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 69.5 secs
+=============== no AXp exists ===============
+plants, 28-th inst file out of 33
+SAT encoding: query on feature 227 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 70.0 secs
+=============== no AXp exists ===============
+plants, 29-th inst file out of 33
+SAT encoding: query on feature 17 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 70.6 secs
+=============== no AXp exists ===============
+plants, 30-th inst file out of 33
+SAT encoding: query on feature 207 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.1 secs
+=============== no AXp exists ===============
+plants, 31-th inst file out of 33
+SAT encoding: query on feature 230 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.4 secs
+=============== no AXp exists ===============
+plants, 32-th inst file out of 33
+SAT encoding: query on feature 95 out of 244 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 244.
+Start solving...
+Solving time: 71.1 secs
+=============== no AXp exists ===============
+plants & 33 & 3076464 & 10385552 & 2329.9 & 71.5 & 68.9 & 70.6
+
+############ rcv1 ############
+rcv1, 0-th inst file out of 24
+SAT encoding: query on feature 378 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 181.4 secs
+=============== no AXp exists ===============
+rcv1, 1-th inst file out of 24
+SAT encoding: query on feature 399 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 173.6 secs
+=============== no AXp exists ===============
+rcv1, 2-th inst file out of 24
+SAT encoding: query on feature 239 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 162.8 secs
+=============== no AXp exists ===============
+rcv1, 3-th inst file out of 24
+SAT encoding: query on feature 305 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 160.1 secs
+=============== no AXp exists ===============
+rcv1, 4-th inst file out of 24
+SAT encoding: query on feature 132 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 161.8 secs
+=============== no AXp exists ===============
+rcv1, 5-th inst file out of 24
+SAT encoding: query on feature 178 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 160.5 secs
+=============== no AXp exists ===============
+rcv1, 6-th inst file out of 24
+SAT encoding: query on feature 19 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 156.3 secs
+=============== no AXp exists ===============
+rcv1, 7-th inst file out of 24
+SAT encoding: query on feature 211 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 154.2 secs
+=============== no AXp exists ===============
+rcv1, 8-th inst file out of 24
+SAT encoding: query on feature 32 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 157.0 secs
+=============== no AXp exists ===============
+rcv1, 9-th inst file out of 24
+SAT encoding: query on feature 377 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 174.7 secs
+=============== no AXp exists ===============
+rcv1, 10-th inst file out of 24
+SAT encoding: query on feature 244 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 192.3 secs
+=============== no AXp exists ===============
+rcv1, 11-th inst file out of 24
+SAT encoding: query on feature 1 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 189.9 secs
+=============== no AXp exists ===============
+rcv1, 12-th inst file out of 24
+SAT encoding: query on feature 34 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 189.2 secs
+=============== no AXp exists ===============
+rcv1, 13-th inst file out of 24
+SAT encoding: query on feature 245 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 191.4 secs
+=============== no AXp exists ===============
+rcv1, 14-th inst file out of 24
+SAT encoding: query on feature 149 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 194.6 secs
+=============== no AXp exists ===============
+rcv1, 15-th inst file out of 24
+SAT encoding: query on feature 214 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 191.7 secs
+=============== no AXp exists ===============
+rcv1, 16-th inst file out of 24
+SAT encoding: query on feature 144 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 189.2 secs
+=============== no AXp exists ===============
+rcv1, 17-th inst file out of 24
+SAT encoding: query on feature 29 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 192.5 secs
+=============== no AXp exists ===============
+rcv1, 18-th inst file out of 24
+SAT encoding: query on feature 351 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 194.2 secs
+=============== no AXp exists ===============
+rcv1, 19-th inst file out of 24
+SAT encoding: query on feature 401 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 193.3 secs
+=============== no AXp exists ===============
+rcv1, 20-th inst file out of 24
+SAT encoding: query on feature 381 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 194.1 secs
+=============== no AXp exists ===============
+rcv1, 21-th inst file out of 24
+SAT encoding: query on feature 358 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 193.2 secs
+=============== no AXp exists ===============
+rcv1, 22-th inst file out of 24
+SAT encoding: query on feature 329 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 196.0 secs
+=============== no AXp exists ===============
+rcv1, 23-th inst file out of 24
+SAT encoding: query on feature 164 out of 410 features:
+Count avg. #vars and avg. #cls
+(GnC) Feature Membership of SDD into CNF formulas ...
+There are #0 vars set to free, out of 410.
+Start solving...
+Solving time: 193.7 secs
+=============== no AXp exists ===============
+rcv1 & 24 & 6787664 & 21063341 & 4326.6 & 194.7 & 154.9 & 180.3
